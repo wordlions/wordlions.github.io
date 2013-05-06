@@ -1,0 +1,33 @@
+---
+date: '2011/09/14 09:00:20'
+layout: post
+slug: '1496'
+status: publish
+title: 'Improving Assessment Performance and Design: Part 3'
+wordpress_id: '1496'
+categories:
+- What Word Lions Do
+author: 'Philip'
+---
+
+This post continues our series on the common flaws we've found in assessment tests (and how to exploit those as a test-taker). After we finish describing the common flaws, we'll talk about how to avoid those flaws through better assessment design.
+
+
+## Tip 3: Look for Wrong Answers First
+
+
+Identifying wrong answers using the techniques I've outlined above is more mechanistic (uses the pattern-matching capabilities of your brain) than choosing the best answer from among 2 or 3 correct answers (which taps the critical-thinking , associative capabilities of your brain). Using critical thought to analyze 4 or 5 answers is more taxing than using critical thought to analyze 2 or 3 answers. So rule out the wrong answers (the Distractors) first, and free up your mental bandwidth for the possible answers that you can't mechanisticaly rule out.
+
+
+## Tip 4: Stay organized.
+
+
+When you start reverse engineering test questions rather than answering them strictly based on your domain knowledge, you run the risk of losing track of which answers have been ruled out. So take notes if it helps and if note-taking is allowed in the exam format. Often you will be provided with a dry-erase tablet for use during certification exams, and this can be a place to take notes.
+
+
+## Tip 5: Mark Iffy Questions
+
+
+If the exam format allows you to, mark questions you are uncertain about and come back to review your answer later. It is possible that a later question in the exam will jog your memory and help you answer a previous question you marked. Again, use any note-taking capabilities you are allowed to during the exam to stay organized by jotting down a note about the previous question so that when you review your marked questions, you can utilize that note to revise your previous answer to the marked question.
+
+It's a good idea to allocate about 10% of the total exam time limit to question review.
