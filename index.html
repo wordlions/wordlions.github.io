@@ -17,11 +17,11 @@ tagline: Supporting tagline
 
       <article>
 
-        <h1><a href="#">{{ post.title }}</a></h1>
+        <h1><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h1>
 
         {{ post.content }}
 
-        <h6>Written by <a href="#">John Smith</a> on August 12, 2012.</h6>
+        <h6>Written by {{ post.author }}.</h6>
 
       </article>
 

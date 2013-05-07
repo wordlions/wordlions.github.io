@@ -2,7 +2,7 @@
 date: '2011/08/28 19:40:18'
 layout: post
 slug: it-could-be-better-a-product-description-page
-status: publish
+published: true
 title: 'It Could Be Better: a product description page'
 wordpress_id: '1471'
 categories:

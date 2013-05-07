@@ -2,7 +2,7 @@
 date: '2010/03/04 17:13:34'
 layout: post
 slug: technical-writers-as-snowballs
-status: publish
+published: true
 title: Technical Writers as Snowballs
 wordpress_id: '601'
 categories:

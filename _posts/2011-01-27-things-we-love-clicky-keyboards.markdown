@@ -2,7 +2,7 @@
 date: '2011/01/27 08:00:03'
 layout: post
 slug: things-we-love-clicky-keyboards
-status: publish
+published: true
 title: 'Things We Love: Clicky Keyboards'
 wordpress_id: '826'
 categories:

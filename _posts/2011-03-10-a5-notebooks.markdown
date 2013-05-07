@@ -2,7 +2,7 @@
 date: '2011/03/10 12:00:13'
 layout: post
 slug: a5-notebooks
-status: publish
+published: true
 title: 'Things We Love: A5 Notebooks'
 wordpress_id: '915'
 categories:

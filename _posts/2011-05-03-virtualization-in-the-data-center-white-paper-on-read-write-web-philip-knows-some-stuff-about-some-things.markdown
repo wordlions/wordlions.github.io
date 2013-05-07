@@ -2,7 +2,7 @@
 date: '2011/05/03 20:56:22'
 layout: post
 slug: virtualization-in-the-data-center-white-paper-on-read-write-web-philip-knows-some-stuff-about-some-things
-status: publish
+published: true
 title: 'Virtualization in the Data Center White Paper on Read Write Web: Philip knows
   some stuff about some things'
 wordpress_id: '1341'

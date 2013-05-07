@@ -2,7 +2,7 @@
 date: '2011/09/05 09:00:00'
 layout: post
 slug: presentation-tips-for-technical-communicators
-status: publish
+published: true
 title: Presentation Tips for Technical Communicators
 wordpress_id: '1486'
 categories:

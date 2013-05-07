@@ -2,7 +2,7 @@
 date: '2010/02/21 20:14:00'
 layout: post
 slug: bartleby-the-prospect-getting-the-white-paper-to-the-audience
-status: publish
+published: true
 title: 'Bartleby the Prospect: Getting the White Paper to the Audience'
 wordpress_id: '575'
 categories:

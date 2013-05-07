@@ -2,7 +2,7 @@
 date: '2011/07/01 19:44:13'
 layout: post
 slug: making-great-docs-step-one-hate-the-first-draft
-status: publish
+published: true
 title: 'Making Great Docs, Step One: hate the first draft.'
 wordpress_id: '1351'
 categories:

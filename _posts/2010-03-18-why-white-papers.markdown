@@ -2,7 +2,7 @@
 date: '2010/03/18 18:48:57'
 layout: post
 slug: why-white-papers
-status: publish
+published: true
 title: Why White Papers?
 wordpress_id: '609'
 categories:

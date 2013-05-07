@@ -2,7 +2,7 @@
 date: '2010/03/02 22:32:01'
 layout: post
 slug: how-to-win-any-argument
-status: publish
+published: true
 title: 'How to Win Any Argument  '
 wordpress_id: '587'
 categories:

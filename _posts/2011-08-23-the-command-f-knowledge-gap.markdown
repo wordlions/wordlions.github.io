@@ -2,7 +2,7 @@
 date: '2011/08/23 00:45:27'
 layout: post
 slug: the-command-f-knowledge-gap
-status: publish
+published: true
 title: The Command-F Knowledge Gap
 wordpress_id: '1466'
 categories:

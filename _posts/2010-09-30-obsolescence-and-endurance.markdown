@@ -2,7 +2,7 @@
 date: '2010/09/30 18:09:13'
 layout: post
 slug: obsolescence-and-endurance
-status: publish
+published: true
 title: Obsolescence and Endurance
 wordpress_id: '714'
 categories:

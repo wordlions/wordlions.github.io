@@ -2,7 +2,7 @@
 date: '2011/02/08 01:36:15'
 layout: post
 slug: word-lions-build-elearning-for-international-association-of-software-architects-everyone-looks-great-in-their-new-suits
-status: publish
+published: true
 title: Word Lions Build Elearning for International Association of Software Architects,
   Everyone Looks Great in Their New Suits
 wordpress_id: '866'

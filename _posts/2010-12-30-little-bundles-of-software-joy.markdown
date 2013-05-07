@@ -2,7 +2,7 @@
 date: '2010/12/30 20:40:23'
 layout: post
 slug: little-bundles-of-software-joy
-status: publish
+published: true
 title: Little Bundles of Software Joy
 wordpress_id: '743'
 categories:

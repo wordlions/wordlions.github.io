@@ -2,7 +2,7 @@
 date: '2011/02/25 05:09:32'
 layout: post
 slug: social-media-and-the-new-me
-status: publish
+published: true
 title: Social Media and The New Me
 wordpress_id: '880'
 categories:

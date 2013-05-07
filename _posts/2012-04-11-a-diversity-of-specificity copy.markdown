@@ -2,7 +2,7 @@
 date: '2012/04/12 13:42:10'
 layout: post
 slug: a-diversity-of-specificity
-status: publish
+published: true
 title: A Diversity of Specificity
 categories:
 - What Word Lions Do

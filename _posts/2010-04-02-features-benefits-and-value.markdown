@@ -2,7 +2,7 @@
 date: '2010/04/02 18:50:24'
 layout: post
 slug: features-benefits-and-value
-status: publish
+published: true
 title: Explaining Features, Benefits, and Value
 wordpress_id: '622'
 categories:

@@ -2,7 +2,7 @@
 date: '2012/05/02 13:42:10'
 layout: post
 slug: blowing-minds
-status: publish
+published: true
 title: Blowing Minds or Blowing Tops
 categories:
 - What Word Lions Do

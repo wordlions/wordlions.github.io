@@ -2,7 +2,7 @@
 date: '2011/04/22 22:33:37'
 layout: post
 slug: things-we-love-instapaper
-status: publish
+published: true
 title: 'Things We Love: Instapaper'
 wordpress_id: '952'
 categories:

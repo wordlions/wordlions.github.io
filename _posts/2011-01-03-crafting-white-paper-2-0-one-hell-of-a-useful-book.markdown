@@ -2,7 +2,7 @@
 date: '2011/01/03 06:00:27'
 layout: post
 slug: crafting-white-paper-2-0-one-hell-of-a-useful-book
-status: publish
+published: true
 title: '"Crafting White Paper 2.0": One Hell of a Useful Book '
 wordpress_id: '751'
 categories:

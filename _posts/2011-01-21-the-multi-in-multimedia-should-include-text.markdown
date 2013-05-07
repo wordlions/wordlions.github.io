@@ -2,7 +2,7 @@
 date: '2011/01/21 19:36:17'
 layout: post
 slug: the-multi-in-multimedia-should-include-text
-status: publish
+published: true
 title: The "Multi" in Multimedia Should Include Text
 wordpress_id: '810'
 categories:

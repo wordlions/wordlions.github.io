@@ -2,7 +2,7 @@
 date: '2011/12/18 13:42:10'
 layout: post
 slug: thankful
-status: publish
+published: true
 title: Thankful
 wordpress_id: '1705'
 categories:

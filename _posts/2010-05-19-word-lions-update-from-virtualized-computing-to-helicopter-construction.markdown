@@ -2,7 +2,7 @@
 date: '2010/05/19 22:33:40'
 layout: post
 slug: word-lions-update-from-virtualized-computing-to-helicopter-construction
-status: publish
+published: true
 title: 'Word Lions Update: From Virtualized Computing to Helicopter Construction'
 wordpress_id: '636'
 categories:

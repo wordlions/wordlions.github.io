@@ -2,7 +2,7 @@
 date: '2009/11/10 17:37:51'
 layout: post
 slug: what-writers-can-learn-from-sesame-street
-status: publish
+published: true
 title: What writers can learn from Sesame Street
 wordpress_id: '531'
 categories:

@@ -2,7 +2,7 @@
 date: '2011/10/03 10:41:07'
 layout: post
 slug: things-we-love-the-good-feeling-of-oneness-with-cup-rubber
-status: publish
+published: true
 title: 'Things We Love: The good feeling of oneness with cup rubber'
 wordpress_id: '1661'
 categories:

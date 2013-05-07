@@ -2,7 +2,7 @@
 date: '2011/10/12 10:57:34'
 layout: post
 slug: lead-with-benefits-and-value
-status: publish
+published: true
 title: Lead With Benefits and Value
 wordpress_id: '1659'
 categories:

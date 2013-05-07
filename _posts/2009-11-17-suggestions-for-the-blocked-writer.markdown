@@ -2,7 +2,7 @@
 date: '2009/11/17 00:33:00'
 layout: post
 slug: suggestions-for-the-blocked-writer
-status: publish
+published: true
 title: Suggestions For The Blocked Writer
 wordpress_id: '552'
 categories:

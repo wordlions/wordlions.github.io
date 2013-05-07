@@ -2,7 +2,7 @@
 date: '2011/03/07 12:00:58'
 layout: post
 slug: control-the-frame-dominate-the-market
-status: publish
+published: true
 title: Control the Frame, Dominate the Market
 wordpress_id: '948'
 categories:

@@ -2,7 +2,7 @@
 date: '2011/04/19 00:40:01'
 layout: post
 slug: word-lions-quarterly-report-for-q2y2011
-status: publish
+published: true
 title: Word Lions Quarterly Report for Q2Y2011
 wordpress_id: '996'
 categories:

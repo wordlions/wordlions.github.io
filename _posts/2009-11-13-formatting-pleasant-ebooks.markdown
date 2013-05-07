@@ -2,7 +2,7 @@
 date: '2009/11/13 19:24:51'
 layout: post
 slug: formatting-pleasant-ebooks
-status: publish
+published: true
 title: Formatting Pleasant eBooks
 wordpress_id: '538'
 categories:

@@ -2,7 +2,7 @@
 date: '2010/01/13 18:41:18'
 layout: post
 slug: repeating-words
-status: publish
+published: true
 title: Repeating Words
 wordpress_id: '565'
 categories:

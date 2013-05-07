@@ -2,7 +2,7 @@
 date: '2011/09/19 09:00:44'
 layout: post
 slug: improving-assessment-performance-and-design-part-4
-status: publish
+published: true
 title: 'Improving Assessment Performance and Design: Part 4'
 wordpress_id: '1500'
 categories:

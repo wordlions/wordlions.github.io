@@ -2,7 +2,7 @@
 date: '2009/07/12 20:24:24'
 layout: post
 slug: we-know-what-you-want-to-ask-how-are-we-like-and-unlike-the-kid-that-can-program-the-clock-on-your-microwave
-status: publish
+published: true
 title: 'We know what you want to ask:  how are we like and unlike the kid that can
   program the clock on your microwave?'
 wordpress_id: '196'
