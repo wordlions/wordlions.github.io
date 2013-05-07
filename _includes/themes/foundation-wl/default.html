@@ -29,13 +29,13 @@
     <div class="large-12 columns">
       <div class="nav-bar right">
        <ul class="button-group">
-         <li><a href="#" class="button">Link 1</a></li>
-         <li><a href="#" class="button">Link 2</a></li>
-         <li><a href="#" class="button">Link 3</a></li>
-         <li><a href="#" class="button">Link 4</a></li>
+         <li><a href="/who" class="button">Who We Are</a></li>
+         <li><a href="/what" class="button">What We Do</a></li>
+         <li><a href="/contact" class="button">Contact us</a></li>
+         <li><a href="/" class="button">Blog</a></li>
         </ul>
       </div>
-      <h1>Blog <small>This is my blog. It's awesome.</small></h1>
+      <a href="/"><img src="http://www.wordlions.com/img/WLlogo-black.png" width="450px" /></a>
       <hr />
     </div>
   </div>
@@ -53,22 +53,17 @@
       <hr />
       <div class="row">
         <div class="large-6 columns">
-          <p>&copy; Copyright no one at all. Go to town.</p>
+          <p>&copy; Word Lions LLC</p>
         </div>
         <div class="large-6 columns">
-          <ul class="inline-list right">
-            <li><a href="#">Link 1</a></li>
-            <li><a href="#">Link 2</a></li>
-            <li><a href="#">Link 3</a></li>
-            <li><a href="#">Link 4</a></li>
-          </ul>
+          
         </div>
       </div>
     </div>
   </footer>
 
   <script>
-  document.write('<script src=js/vendor/' +
+  document.write('<script src={{ ASSET_PATH }}/js/vendor/' +
   ('__proto__' in {} ? 'zepto' : 'jquery') +
   '.js><\/script>')
   </script>
