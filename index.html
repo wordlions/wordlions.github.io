@@ -13,7 +13,7 @@ tagline: Supporting tagline
     <!-- Main Blog Content -->
     <div class="large-8 columns" role="content">
 
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
 
       <article>
 
@@ -29,6 +29,54 @@ tagline: Supporting tagline
         
     
     {% endfor %}
+<span class="radius secondary label">
+    <h6>More articles</h6>
+<ul class="inline-list">
+        
+{% if paginator.previous_page %}
+    <li>
+      {% if paginator.previous_page == 1 %}
+        <a href="/"><i class="foundicon-left-arrow"></i></a>
+      {% else %}
+        <a href="{{ paginator.previous_page_path }}"><i class="foundicon-left-arrow"></i></a>
+      {% endif %}
+    </li>
+  {% else %}
+    <li>
+      <span><i class="foundicon-left-arrow"></i></span>
+    </li>
+  {% endif %}
+
+    <li>
+      {% if paginator.page == 1 %}
+        <span class="current-page">1</span>
+      {% else %}
+        <a href="/">1</a>
+      {% endif %}
+    </li>
+
+    {% for count in (2..paginator.total_pages) %}
+      <li>
+        {% if count == paginator.page %}
+          <span class="current-page">{{ count }}</span>
+        {% else %}
+          <a href="/page{{ count }}">{{ count }}</a>
+        {% endif %}
+      </li>
+    {% endfor %}
+  
+
+  {% if paginator.next_page %}
+    <li>
+      <a href="/{{ paginator.next_page_path }}"><i class="foundicon-right-arrow"></i></a>
+    </li>
+  {% else %}
+    <li class="next disabled">
+      <span><i class="foundicon-right-arrow"></i></span>
+    </li>
+  {% endif %}
+</ul>
+</span>
     
     </div>
 
