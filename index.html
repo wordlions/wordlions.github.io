@@ -38,7 +38,7 @@ tagline: Supporting tagline
       {% if paginator.previous_page == 1 %}
         <a href="/"><i class="foundicon-left-arrow"></i></a>
       {% else %}
-        <a href="{{ paginator.previous_page_path }}"><i class="foundicon-left-arrow"></i></a>
+        <a href="/{{ paginator.previous_page_path }}"><i class="foundicon-left-arrow"></i></a>
       {% endif %}
     </li>
   {% else %}
