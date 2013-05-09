@@ -1,9 +1,8 @@
 # TODO
 
-* Change Foundation primary color to some warm grey
-* Finish modals and images on /what page
+* Get consistent image sizes happening for the thumbnails on the /what page
 * Verify that problem with next button is resolved
-* Update pictures on /who page
 * Error-check all content, links, etc.
+* Wire up form for contact page (or just make it a traditional vcard-ey thing, but ask Joel if it's OK to publish the company address there)
+
 * Update color theme to custom theme
-* Wire up form for contact page
