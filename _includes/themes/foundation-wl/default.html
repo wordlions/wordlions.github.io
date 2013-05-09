@@ -35,24 +35,52 @@
     }
 </style>
 
-  <!-- Nav Bar -->
-
-  <div class="row">
-    <div class="large-12 columns">
-      <div class="nav-bar right">
-       <ul class="button-group">
-         <li><a href="/who" class="button">Who We Are</a></li>
-         <li><a href="/what" class="button">What We Do</a></li>
-         <li><a href="/contact" class="button">Contact us</a></li>
-         <li><a href="/" class="button">Articles</a></li>
+<div class="row">
+  <div class="large-12 columns">
+ 
+    <!-- Navigation -->
+      <nav class="top-bar">
+        <ul class="title-area">
+          <!-- Title Area -->
+          <li class="name">
+            <h1>
+                <a href="/"><img src="/img/WLlogo-black.png" height="40px" /></a>
+            </h1>
+          </li>
+          <li class="toggle-topbar menu-icon"><a href="#"><span>menu</span></a></li>
         </ul>
-      </div>
-      <a href="/"><img src="/img/WLlogo-black.png" width="400px" /></a>
-      <hr />
+ 
+        <section class="top-bar-section">
+          <ul class="left">
+              <li class="divider"></li>
+             <li><a href="/who">Who We Are</a></li>
+              <li class="divider"></li>
+              <li><a href="/what">What We Do</a></li>
+            <li class="divider"></li>
+             <li><a href="/contact">Contact us</a></li>
+              <li class="divider"></li>
+             <li><a href="/">Articles</a></li>
+              <li class="divider"></li>
+          </ul>
+ 
+          <ul class="right">
+            <li class="search">
+              <form>
+                <input type="search">
+              </form>
+            </li>
+ 
+            <li class="has-button">
+              <a class="small button" href="#">Search</a>
+            </li>
+          </ul>
+        </section>
+      </nav>
+ 
+    <!-- End Navigation -->
+  
     </div>
   </div>
-
-  <!-- End Nav -->
 
 
  {{ content }}
