@@ -33,7 +33,7 @@ Philip and I are both technical pros.  We have been asked to perform technical w
 
 ### Ways that we are NOT like the kid who programs the clock on your microwave:
 	
-![Lots of Dials](/wp-content/uploads/2009/07/LotsOfDials-sm.png)
+![Lots of Dials](/img/LotsOfDials-sm.png)
 
 * **We prefer to leave you with the ability to set your own clock.** You need that kid at least two times a year, when daylight savings kicks in.  If there is a power outage, you have to call him up again -- or face the daily annoyance of a flashing 12:00...12:00...12:00.  Nowadays, The Word Lions communicate about the technology, making sense of it for end users and purchasing decision-makers.  We find a way for  that arcane time-changing button combination to make sense so that users can do it themselves.
 

@@ -10,8 +10,6 @@ categories:
 author: 'Philip'
 ---
 
-<img src="http://www.5thavenuecinema.org/storage/littleotik.jpg?__SQUARESPACE_CACHEVERSION=1280715259217" width="80%" />
-
 One of the exquisitely enjoyable moments of doing what the Word Lions do just happened. It involved a spell check dictionary, two Macs, and a bundle of newborn software joy.
 
 Joel and I have been working with this particular client for the better part of a year now. He and his team are writing an impressive piece of software for the electric utility industry.

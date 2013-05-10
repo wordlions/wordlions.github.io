@@ -24,12 +24,7 @@ Distractors are wrong answers. Distractors can range from "close but no cigar" t
 
 Good technical writing uses [parallel structure ](http://owl.english.purdue.edu/owl/resource/644/01/)when creating lists of items. This technical writing norm often appears in certification exams as well, with the list of potential answers for a question using parallel structure. **Look for any exceptions to parallel structure when reading the list of potential answers**. An answer that deviates from parallel structure is likely one of the following:
 
-
-
-	
 * A poorly written distractor.
-
-	
 * A correct/best answer.
 
 
@@ -43,7 +38,7 @@ It's very difficult to write good Distractors. And sometimes, as a test-taker, y
 ### **Factual Clues**
 
 
-****Look closely for references to non-existent interface components or wrong procedures. The ability to spot Distractors based on factual clues is dependent on your level of domain knowledge, but remember that Distractors often use the following format:
+Look closely for references to non-existent interface components or wrong procedures. The ability to spot Distractors based on factual clues is dependent on your level of domain knowledge, but remember that Distractors often use the following format:
 
 Answer = _correct procedure_ + _fictitious software interface name_
 
