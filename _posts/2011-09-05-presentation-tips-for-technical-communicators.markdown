@@ -52,13 +52,13 @@ I think it is best to make sure students understand 2 things about me: I have si
 
 
 	
-  * 95% of students understand that the field of IT is vast and broad and that means no one person can know it all. The other 5% can’t be pleased no matter what you do, so they’re going to find something to criticize no matter what. Depending on the audience, this split may be more like 80/20.
+* 95% of students understand that the field of IT is vast and broad and that means no one person can know it all. The other 5% can’t be pleased no matter what you do, so they’re going to find something to criticize no matter what. Depending on the audience, this split may be more like 80/20.
 
 	
-  * Skill in researching answers to difficult questions is a great asset to any trainer.
+* Skill in researching answers to difficult questions is a great asset to any trainer.
 
 
-If I don’t know the answer to a question, I will usually say: “I don’t know, but here’s my best guess: <insert speculative response here>. Would you like me to look into this further and get back to you?” Also, you can ask the other students if anyone else knows the answer.
+If I don’t know the answer to a question, I will usually say: “I don’t know, but here’s my best guess: (insert speculative response here). Would you like me to look into this further and get back to you?” Also, you can ask the other students if anyone else knows the answer.
 
 This approach satisfies 75% of the questions where I don’t know the answer but also leaves the door open for further exploration if the student is genuinely interested. This avoids me spending research time on questions that don’t really matter to the student. If the question matters to me, I’ll do the research anyway!
 
@@ -157,28 +157,26 @@ You are discussing SQL data types.
 
 Good questions:
 
-
+	
+* Describe a scenario where you would use the XYZ datatype.
 
 	
-  * Describe a scenario where you would use the XYZ datatype.
+* Describe a scenario wherer the XYZ datatype would not be a good choice.
 
 	
-  * Describe a scenario wherer the XYZ datatype would not be a good choice.
+* List two or three ways the XYZ datatype address the limitations of the ABC datatype?
 
 	
-  * List two or three ways the XYZ datatype address the limitations of the ABC datatype?
-
-	
-  * What on-the-job scenarios can you think of where the XYZ datatype would be useful?
+* What on-the-job scenarios can you think of where the XYZ datatype would be useful?
 
 
 Poor questions:
 
 	
-  * Have you ever used the XYZ datatype?
+* Have you ever used the XYZ datatype?
 
 	
-  * Can you use the XYZ datatype to store first names? Answer yes or no.
+* Can you use the XYZ datatype to store first names? Answer yes or no.
 
 
 Hopefully you can see, from these examples, that you want to avoid yes/no questions (unless they lead to discussion or reinforce a broad concept that is important to understand) or simplistic questions that only involve simple recall. Questions that invite discussion tend to be the best way to help students synthesize new information.

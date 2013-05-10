@@ -27,10 +27,10 @@ Good technical writing uses [parallel structure ](http://owl.english.purdue.ed
 
 
 	
-  * A poorly written distractor.
+* A poorly written distractor.
 
 	
-  * A correct/best answer.
+* A correct/best answer.
 
 
 Wait, really? You can identify the correct answer just by its grammar? Based on my experience, I would say that 15% of the time it is possible to use only your ability to spot exceptions to parallel list structure to identify a correct answer even if you have little or no domain knowledge that is relevant to that question. Remember, that some exam questions have several correct answers, and after you have weeded out the distractors you must choose the _best_ answer from among the _correct_ answers, so weeding out the distractors is only part of the challenge.

@@ -29,10 +29,10 @@ I was down in Los Angeles attending the [Gravity Summit](http://www.gravitysummi
 
 
 	
-  * That a social media strategy alone will get a company where they need to go.
+* That a social media strategy alone will get a company where they need to go.
 
 	
-  * That MC Hammer is a good choice for featured speaker.
+* That MC Hammer is a good choice for featured speaker.
 
 
 ![](http://wordlions.com/wp-content/uploads/2011/02/HammeratGravSum-768x1024.jpg)
@@ -91,19 +91,19 @@ Along with MC Hammer and Daphne from Red Cross, speakers included:
 
 
 	
-  * Brian Drescher of Mashable
+* Brian Drescher of Mashable
 
 	
-  * Ted Nguyen, a publicist and darling of social media
+* Ted Nguyen, a publicist and darling of social media
 
 	
-  * Simon Mainwaring, formerly of Wieden & Kennedy now an author and all-around smart guy
+* Simon Mainwaring, formerly of Wieden & Kennedy now an author and all-around smart guy
 
 	
-  * Stewart Neff from Visible, a company that helps to track social media for companies
+* Stewart Neff from Visible, a company that helps to track social media for companies
 
 	
-  * Ramon DeLeon, a Domino’s Pizza franchise owner from Chicago that has gone ahead and made himself famous and loved through his existence on the social tubes
+* Ramon DeLeon, a Domino’s Pizza franchise owner from Chicago that has gone ahead and made himself famous and loved through his existence on the social tubes
 
 
 _Learn more about all of these folks on the Gravity Summit [agenda](http://www.gravitysummit.com/agenda/). Or find them out there in the ether. They are easy to find._

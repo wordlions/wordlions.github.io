@@ -47,13 +47,13 @@ Make sure you have seen and used every interface the software offers, and you ha
 
 
 	
-  * Every feature described on the software's website
+* Every feature described on the software's website
 
 	
-  * Every menu option
+* Every menu option
 
 	
-  * Every configuration setting
+* Every configuration setting
 
 
 Make sure you get plenty hands-on usage of the software. Setting the software up in a Virtual Machine is often a great way to do this.
@@ -67,10 +67,10 @@ Sometimes exam writers run out of good questions to ask, so they resort to trivi
 
 
 	
-  * What the software can not do
+* What the software can not do
 
 	
-  * Built-in limits to what the software can do
+* Built-in limits to what the software can do
 
 
 As you are preparing for an exam, pay particular attention to details of this nature.

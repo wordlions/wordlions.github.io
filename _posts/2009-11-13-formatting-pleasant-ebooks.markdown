@@ -15,16 +15,16 @@ As a concept, the electronic book is a grand idea. In execution, it has been a s
 
 
 	
-  * They are easy to transport.  A 1,000 page document doesn't make your laptop any heavier.
+* They are easy to transport.  A 1,000 page document doesn't make your laptop any heavier.
 
 	
-  * They are "green," not requiring paper.
+* They are "green," not requiring paper.
 
 	
-  * The reader can use the "find" button to browse for particular information.
+* The reader can use the "find" button to browse for particular information.
 
 	
-  * They are easy to publish.
+* They are easy to publish.
 
 
 However, the readers notoriously eliminate most of these advantages by hitting the print button.  Bam -- They take the "e" out of "ebook." It is not the reader's fault.  Most ebooks are just not that convenient.  Most are not layed out in a useable, screen friendly way.

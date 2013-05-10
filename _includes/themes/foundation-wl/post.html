@@ -3,6 +3,17 @@
 
     <!-- Main Blog Content -->
     <div class="large-8 columns" role="content">
+        <style>
+        ul, ol {
+            list-style-position: inside; 
+            margin-left: 0.7em;
+            padding-left: 0.7em;
+            text-indent: -1em;
+        }
+        @media only screen and (min-width: 48em) {
+      h1, h2, h3, h4, h5, h6 {
+        line-height: 1.1; }
+        </style>
 
       <article>
             <h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>

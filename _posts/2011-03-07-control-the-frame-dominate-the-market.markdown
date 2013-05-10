@@ -25,13 +25,13 @@ There you have it; a clear example of framing. Let's break it down a bit. When A
 
 
 	
-  * The Apple IOS products (iPod, iPhone, iPad) are not PCs. This means that all the expectations and conventions that have been built up around PCs are out the window when Apple uses this new frame for discussing their IOS products. All the "well, the iPad can't..." critiques don't really apply because they're based on PC norms and expectations. Translation: Apple doesn't have to play by their competitors' rules.
+* The Apple IOS products (iPod, iPhone, iPad) are not PCs. This means that all the expectations and conventions that have been built up around PCs are out the window when Apple uses this new frame for discussing their IOS products. All the "well, the iPad can't..." critiques don't really apply because they're based on PC norms and expectations. Translation: Apple doesn't have to play by their competitors' rules.
 
 	
-  * To be a post-PC product, you have to have an intuitive (probably touch-based) interface and tight integration between the operating system and the hardware. Translation: If you aren't HP or RIM, you don't have even the prerequisites to compete in the Apple-defined post-PC market.
+* To be a post-PC product, you have to have an intuitive (probably touch-based) interface and tight integration between the operating system and the hardware. Translation: If you aren't HP or RIM, you don't have even the prerequisites to compete in the Apple-defined post-PC market.
 
 	
-  * By differentiating their IOS products from PC's, Apple gains greater latitude in marketing. Translation: post-PC devices can be defined in a way that provides an advantage to Apple.
+* By differentiating their IOS products from PC's, Apple gains greater latitude in marketing. Translation: post-PC devices can be defined in a way that provides an advantage to Apple.
 
 
 It may seem like a small bit of terminology, but Apple's use of the word "post-PC" is an important part of framing the discussion to their own advantage. If you buy into Apple's use of "post-PC," you automatically buy into all the assumptions they've tied to the term. And that benefits Apple.

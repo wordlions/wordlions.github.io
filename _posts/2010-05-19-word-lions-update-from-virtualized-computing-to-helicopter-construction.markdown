@@ -36,10 +36,10 @@ A lot of what Philip has written for Microsoft is for Microsoft's internal audie
 
 
 	
-  * [ http://download.microsoft.com/download/6/3/F/63F162FA-1464-4C58-ACE3-5B79B5158E7F/MSDesktopVirtCompareWhitepaperApr2010.pdf](http://download.microsoft.com/download/6/3/F/63F162FA-1464-4C58-ACE3-5B79B5158E7F/MSDesktopVirtCompareWhitepaperApr2010.pdf)
+* [ http://download.microsoft.com/download/6/3/F/63F162FA-1464-4C58-ACE3-5B79B5158E7F/MSDesktopVirtCompareWhitepaperApr2010.pdf](http://download.microsoft.com/download/6/3/F/63F162FA-1464-4C58-ACE3-5B79B5158E7F/MSDesktopVirtCompareWhitepaperApr2010.pdf)
 
 	
-  * [http://download.microsoft.com/download/F/A/9/FA917DF8-39F1-4FBF-84A6-50551E110765/MSCloudCompareWhitepaperApr2010.pdf](http://download.microsoft.com/download/F/A/9/FA917DF8-39F1-4FBF-84A6-50551E110765/MSCloudCompareWhitepaperApr2010.pdf)
+* [http://download.microsoft.com/download/F/A/9/FA917DF8-39F1-4FBF-84A6-50551E110765/MSCloudCompareWhitepaperApr2010.pdf](http://download.microsoft.com/download/F/A/9/FA917DF8-39F1-4FBF-84A6-50551E110765/MSCloudCompareWhitepaperApr2010.pdf)
 
 
 
@@ -52,10 +52,10 @@ In a related project, Philip crafted some web copy for Microsoft. By the looks o
 
 
 	
-  * [http://www.microsoft.com/virtualization/en/us/desktop-advantage.aspx](http://www.microsoft.com/virtualization/en/us/desktop-advantage.aspx)
+* [http://www.microsoft.com/virtualization/en/us/desktop-advantage.aspx](http://www.microsoft.com/virtualization/en/us/desktop-advantage.aspx)
 
 	
-  * [http://www.microsoft.com/virtualization/en/us/cloud-advantage.aspx](http://www.microsoft.com/virtualization/en/us/cloud-advantage.aspx)
+* [http://www.microsoft.com/virtualization/en/us/cloud-advantage.aspx](http://www.microsoft.com/virtualization/en/us/cloud-advantage.aspx)
 
 
 Philip's not just a one-client guy. He's been collaborating with Joel on helping a small startup get the word out about their product. Together, the Word Lions have been helping http://ofuz.com increase web traffic, and polish the language of their product's help system. Oh, and we've been using the product too! We're enjoying how Ofuz helps us stay on top of all of our tasks and stay in touch with our clients. Although it's still in beta, it's really a promising product, especially for small businesses and freelancers.

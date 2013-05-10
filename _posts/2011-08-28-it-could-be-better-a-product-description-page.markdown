@@ -32,25 +32,25 @@ While re-writing the copy for this page, I felt like the following things could 
 
 
 	
-  * Don't put the product name in quotes. In US English, quotes around a word or phrase indicate that you intend the reader to look for a secondary meaning for that word or phrase, or in some cases that you intend a sarcastic tone.
+* Don't put the product name in quotes. In US English, quotes around a word or phrase indicate that you intend the reader to look for a secondary meaning for that word or phrase, or in some cases that you intend a sarcastic tone.
 
 	
-  * Remove the word **product** at the top of the copy. It's redundant with the menu bar at page top.
+* Remove the word **product** at the top of the copy. It's redundant with the menu bar at page top.
 
 	
-  * Remove the tag line from the top of the copy. It raises more questions than it answers.
+* Remove the tag line from the top of the copy. It raises more questions than it answers.
 
 	
-  * Be more clear about **what the product does**. Bullet lists are often a great way to do this.
+* Be more clear about **what the product does**. Bullet lists are often a great way to do this.
 
 	
-  * Add more **value statements**. This has to be woven in to the copy throughout.
+* Add more **value statements**. This has to be woven in to the copy throughout.
 
 	
-  * Take a bit of emphasis **off the company**. Of course, the quality and reputation of the company is important, but this particular page on the web site is focused on the **product**, and so the focus should stay there.
+* Take a bit of emphasis **off the company**. Of course, the quality and reputation of the company is important, but this particular page on the web site is focused on the **product**, and so the focus should stay there.
 
 	
-  * Attempt to link the product to the **problem it solves**.
+* Attempt to link the product to the **problem it solves**.
 
 
 

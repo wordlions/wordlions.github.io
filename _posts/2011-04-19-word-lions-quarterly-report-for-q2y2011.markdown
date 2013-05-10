@@ -41,10 +41,10 @@ That would seem like a pretty random goal except for two things:
 
 
 	
-  * Philip and I are total engineering nerds and can geek out on things like fish ladder design.
+* Philip and I are total engineering nerds and can geek out on things like fish ladder design.
 
 	
-  * We are developing training and communication for a software project which interfaces with these dams. It was a chance to see how our simulations work in the real world.
+* We are developing training and communication for a software project which interfaces with these dams. It was a chance to see how our simulations work in the real world.
 
 
 This meeting we had one agenda item: **How do we deal with growth?**

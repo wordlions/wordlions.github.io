@@ -47,13 +47,13 @@ Now Philip and I are ramping up on this project even earlier than we had planned
 
 
 	
-  * An in-person demonstration of the beta software.
+* An in-person demonstration of the beta software.
 
 	
-  * A Learning Management System (LMS) with software simulation courses that explain the user interface and run through some common scenarios.
+* A Learning Management System (LMS) with software simulation courses that explain the user interface and run through some common scenarios.
 
 	
-  * Labs, delivered as PDF documents, that guide users through scenarios on the development site.
+* Labs, delivered as PDF documents, that guide users through scenarios on the development site.
 
 
 
@@ -70,22 +70,22 @@ By offering beta labs and simulations, we can:
 
 
 	
-  * Increase involvement by the user base, expanding to people who can not make the conference calls and meetings.
+* Increase involvement by the user base, expanding to people who can not make the conference calls and meetings.
 
 	
-  * Fit in with the Agile methodology be getting recurring feedback on prototypes, alphas, and betas.
+* Fit in with the Agile methodology be getting recurring feedback on prototypes, alphas, and betas.
 
 	
-  * Get greater buy-in, particularly from user bases with some concern about the adoption of the software.
+* Get greater buy-in, particularly from user bases with some concern about the adoption of the software.
 
 	
-  * Get better final training by involving the trainers early on.  After the project launches, training done right can make all the difference in user adoption and the ongoing cost of support. Good training can produce a very good ROI!
+* Get better final training by involving the trainers early on.  After the project launches, training done right can make all the difference in user adoption and the ongoing cost of support. Good training can produce a very good ROI!
 
 	
-  * Reduce travel and downtime by getting feedback from users who don't have to leave their desks.
+* Reduce travel and downtime by getting feedback from users who don't have to leave their desks.
 
 	
-  * Just make better software.
+* Just make better software.
 
 
 

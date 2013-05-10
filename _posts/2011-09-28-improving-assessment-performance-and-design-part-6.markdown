@@ -84,10 +84,10 @@ Again, assessing conceptual knowledge is more difficult than assessing understan
 
 
 	
-  * **Trivia**: obscure details of the subject you are assessing that have little or no relevance to your training objectives.
+* **Trivia**: obscure details of the subject you are assessing that have little or no relevance to your training objectives.
 
 	
-  * **Excessive interest in edge cases**: Unusual situations that pertain to the subject you are assessing. Example: You are an astronaut. How long can you survive the vacuum of space without a space suit?
+* **Excessive interest in edge cases**: Unusual situations that pertain to the subject you are assessing. Example: You are an astronaut. How long can you survive the vacuum of space without a space suit?
 
 
 
@@ -112,10 +112,10 @@ Despite your best efforts to write a good assessment, you may end up with some q
 
 
 	
-  * Outliers: questions that almost _everybody_ or _nobody_ gets correct. These are probably flawed in some way and need to be redesigned or rewritten.
+* Outliers: questions that almost _everybody_ or _nobody_ gets correct. These are probably flawed in some way and need to be redesigned or rewritten.
 
 	
-  * Result distribution: What is the distribution of assessment outcomes? Are you trying to fit the outcome to a predetermined distribution, or meet some other criteria?
+* Result distribution: What is the distribution of assessment outcomes? Are you trying to fit the outcome to a predetermined distribution, or meet some other criteria?
 
 
 

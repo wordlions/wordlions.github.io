@@ -25,13 +25,13 @@ Philip has attempted and passed 17 Microsoft software certification exams and ea
 
 
 	
-  * Domain knowledge (factual knowledge of the exam subject) is important but by itself is often not enough to make you successful on a multiple-choice exam.
+* Domain knowledge (factual knowledge of the exam subject) is important but by itself is often not enough to make you successful on a multiple-choice exam.
 
 	
-  * Understanding the exam format and analyzing the structure of each question can help you eliminate wrong answers (thereby raising the odds of a correct guess), even if your domain knowledge is insufficient to point out the correct answer for a given question.
+* Understanding the exam format and analyzing the structure of each question can help you eliminate wrong answers (thereby raising the odds of a correct guess), even if your domain knowledge is insufficient to point out the correct answer for a given question.
 
 	
-  * Good domain knowledge combined with an understanding of a few exam-taking techniques described below can raise your success rate on certification exams.
+* Good domain knowledge combined with an understanding of a few exam-taking techniques described below can raise your success rate on certification exams.
 
 
 
@@ -44,10 +44,10 @@ Here are my tips for “reverse engineering” the exam format. The goal of all 
 
 
 	
-  * Reduces the chance the exam time limit will expire before you have completed the exam and reviewed any questions you are not sure about (if the exam format allows question marking for review).
+* Reduces the chance the exam time limit will expire before you have completed the exam and reviewed any questions you are not sure about (if the exam format allows question marking for review).
 
 	
-  * Reduces your fatigue, raising your chances of correctly answering questions that occur later in the exam.
+* Reduces your fatigue, raising your chances of correctly answering questions that occur later in the exam.
 
 
 By the way, make sure you know the difference between a correct and a best answer! Many software certification exams will present two or three answers that correctly address the question, but one of those answers will entail less effort or time and that makes it the “best” answer. Exam instructions will tell you whether you need to choose correct answers or best answers.

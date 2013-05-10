@@ -23,13 +23,13 @@ I've been writing white papers for two years now, and I'll be the first person t
 
 
 	
-  * Will they be able to navigate the document effectively?
+* Will they be able to navigate the document effectively?
 
 	
-  * Will I lose their attention?
+* Will I lose their attention?
 
 	
-  * Will they get the key informational and marketing messages even with all that chaos in their surroundings?
+* Will they get the key informational and marketing messages even with all that chaos in their surroundings?
 
 
 I think my white papers answer these challenges pretty well, but Kantor's book has explained a whole new level to how to create papers that speak to short-attention span readers. (That's easily 90% of all readers today!) Reaching these readers has as much to do with layout and organization as with crisp, well-written text, and that's where I learned a lot from Kantor's book.
@@ -62,16 +62,16 @@ I sure would. In addition to what I've mentioned, there's plenty of other, valua
 
 
 	
-  * Resource lists
+* Resource lists
 
 	
-  * Helpful illustrations
+* Helpful illustrations
 
 	
-  * Example white paper excerpts
+* Example white paper excerpts
 
 	
-  * Lots of other prescriptive guidance to help a white paper writer produce better papers
+* Lots of other prescriptive guidance to help a white paper writer produce better papers
 
 
 I could find a few things to criticize, but in light of the value this book offers, they're just not worth mentioning. Excellent work, Mr. Kantor! You've helped this white paper writer step up his game.
