@@ -1,5 +1,5 @@
-siteurl: "wordlions.com"
 prose:
+  siteurl: "wordlions.com"
   metadata:
     _posts:
       - name: "layout"
