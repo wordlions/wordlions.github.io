@@ -41,7 +41,23 @@
 <body>
     
 <style>
-    .extraleftindent {
+    ul,
+    ol,
+    dl {
+        margin-left: 0.7em;
+        padding-left: 0.7em;
+        text-indent: -1em;
+        list-style-position: inside;
+    }
+    
+    .clearindents {
+        margin-left: 0em;
+        padding-left: 0em;
+        text-indent: 0em;
+        list-style-position: outside;
+    }
+        
+        .extraleftindent {
         list-style-position: inside; 
         margin-left: 0.7em;
         padding-left: 0.7em;
@@ -58,7 +74,7 @@
  
     <!-- Navigation -->
       <nav class="top-bar">
-        <ul class="title-area">
+        <ul class="title-area clearindents">
           <!-- Title Area -->
           <li class="name">
             <h1>
@@ -69,7 +85,7 @@
         </ul>
  
         <section class="top-bar-section">
-          <ul class="left">
+          <ul class="left clearindents">
               <li class="divider"></li>
              <li><a href="/who">Who We Are</a></li>
               <li class="divider"></li>
@@ -81,7 +97,7 @@
               <li class="divider"></li>
           </ul>
  
-          <ul class="right">
+          <ul class="right clearindents">
             <li class="search">
               <form>
               </form>
