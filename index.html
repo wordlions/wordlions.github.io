@@ -38,7 +38,7 @@ title: Word Lions LLC
       {% if paginator.previous_page == 1 %}
         <a href="/"><i class="foundicon-left-arrow"></i></a>
       {% else %}
-        <a href="/page{{ paginator.previous_page }}"><i class="foundicon-left-arrow"></i></a>
+        <a href="/page{{ paginator.previous_page }}/"><i class="foundicon-left-arrow"></i></a>
       {% endif %}
     </li>
   {% else %}
@@ -60,7 +60,7 @@ title: Word Lions LLC
         {% if count == paginator.page %}
           <span class="current-page">{{ count }}</span>
         {% else %}
-          <a href="/page{{ count }}">{{ count }}</a>
+          <a href="/page{{ count }}/">{{ count }}</a>
         {% endif %}
       </li>
     {% endfor %}
@@ -68,7 +68,7 @@ title: Word Lions LLC
 <li style="margin-right: 1.375em;">
   {% if paginator.next_page %}
 
-      <a href="/page{{ paginator.next_page }}"><i class="foundicon-right-arrow"></i></a>
+      <a href="/page{{ paginator.next_page }}/"><i class="foundicon-right-arrow"></i></a>
   {% else %}
       <span><i class="foundicon-right-arrow"></i></span>
   {% endif %}
