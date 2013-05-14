@@ -116,7 +116,7 @@ JB :
   # where [HELPER] is the name of the helper you are overriding.
   
   prose:
-    siteurl: "wordlions.com"
+    siteurl: "http://wordlions.com"
     metadata:
       _posts:
         - name: "layout"
