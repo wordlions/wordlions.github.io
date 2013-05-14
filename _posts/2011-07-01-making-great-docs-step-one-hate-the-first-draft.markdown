@@ -14,11 +14,11 @@ _Update: Our client did like her second draft and immediately took it to meet wi
 
 Yesterday a client called. She did not like the first draft of a white paper that we are making for her. She was downright apologetic. I was overjoyed.
 
-"_Great. Tell me what you don't like about it," _I said.
+"Great. Tell me what you don't like about it," I said.
 
 What followed was a really productive conversation about the story she wanted to tell. She dug up some more source material that will be really valuable in making the second draft. Draft two is going to be awesome.
 
-![](http://wordlions.com/wp-content/uploads/2011/06/redpen-225x300.jpg)<br />
+![](/img/redpen-225x300.jpg)<br />
 
 Word Lions love a good, heavy markup of an early draft. We have been making technical content for a variety of customers for a long time. We know that we are not going to get it right with the first draft--- at least not until Philip masters some of the [subject matter expert interviewing techniques](http://youtu.be/nSLWznym9J8) he has been practicing.
 

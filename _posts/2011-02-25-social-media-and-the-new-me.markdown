@@ -35,7 +35,7 @@ I was down in Los Angeles attending the [Gravity Summit](http://www.gravitysummi
 * That MC Hammer is a good choice for featured speaker.
 
 
-![](http://wordlions.com/wp-content/uploads/2011/02/HammeratGravSum-768x1024.jpg)
+![](/img/HammeratGravSum-768x1024.jpg)
 
 
 My skepticism on one of these was entirely unfounded.  I also bring back a new perspective on how social media can work to merge my own professional and personal life—and how that might not be a bad thing.
@@ -44,7 +44,7 @@ My skepticism on one of these was entirely unfounded.  I also bring back a new 
 ## Amtrak Coast Starlight: My New Favorite Thought Incubator
 
 
-[![](http://wordlions.com/wp-content/uploads/2011/02/DSCN2805-Sepia-300x224.jpg)
+[![](/img/DSCN2805-Sepia-300x224.jpg)
 
 Yesterday on this train I spoke to a woman who is fascinated by timelines. Tanya pointed out that we are, with our Facebook and Twitter feeds, creating and self-curating a timeline of our existence.
 
@@ -74,7 +74,7 @@ The Red Cross publicity team essentially responded with a friendly giggle and an
 ## Work and Life Collide When You Can No Longer Hide
 
 
-![](http://wordlions.com/wp-content/uploads/2011/02/warningworkersbelow-sepia-300x230.jpg)](http://wordlions.com/wp-content/uploads/2011/02/warningworkersbelow-sepia.jpg)<br />
+![](/img/warningworkersbelow-sepia-300x230.jpg)
 
 Consider, as Philip likes to, the concept of being professional. “Professional is doing your job well, even on a bad day,” he says. I think he is right. It really does not have anything to do with any other quirks or habits. The idea that we need to lead a certain life that projects faux professionalism is absurd.
 
@@ -124,7 +124,7 @@ I have used Facebook to tout the things that matter to me and to disparage thing
 
 After Gravity Summit, I think that old-school communication of your identity will eventually be as outmoded as a 1996 web page. I also think that might not be a bad thing, entirely.
 
-![](http://www.wordweevil.com/home/wp-content/uploads/2010/02/offhook.jpg)
+![](/img/offhook.jpg)
 
 By embracing a single public persona not separated into personal and professional, we go beyond posing like cardboard cutout figures labeled with our professional titles. We become real people. Word Lions have certain passions that lend themselves well to writing awesome technical content.
 

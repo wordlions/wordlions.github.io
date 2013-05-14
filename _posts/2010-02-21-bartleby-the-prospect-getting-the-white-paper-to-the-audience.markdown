@@ -22,16 +22,9 @@ We know from experience that creating a good white paper is a real investment. T
 
 At this point, I have three options:
 
-
-
-	
-  1. Dutifully fill out the form honestly, knowing that a sales person will probably contact me.
-
-	
-  2. Provide bogus information, eg lie as much as possible, though I may need to give a legit email address.
-
-	
-  3. Don't read the white paper.
+1. Dutifully fill out the form honestly, knowing that a sales person will probably contact me.
+2. Provide bogus information, eg lie as much as possible, though I may need to give a legit email address.
+3. Don't read the white paper.
 
 
 I choose option 3, don't read the paper, more than any other. Not only do I not want to deal with a salesperson, I don't want to take the time to fill out the form.  Sometimes, they even email you the white paper.  Sometimes, you even have to create a login for their portal to access their content.

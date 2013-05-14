@@ -20,14 +20,13 @@ This rule is somewhat applicable to fiction, where repeating words or phrases ma
 
 Here's an example:
 
-
-These three scenarios examine software licensing costs only. Organizations that already have an investment in tools, personnel, and processes that are based on Widgetco's products can save even more by using Widgetmaster and Widgetizer. The Widgetco solution enables organizations to integrate widgetizing into existing tools, personnel, and processes. This saves management, software, and training costs.
+> These three scenarios examine software licensing costs only. Organizations that already have an investment in tools, personnel, and processes that are based on Widgetco's products can save even more by using Widgetmaster and Widgetizer. The Widgetco solution enables organizations to integrate widgetizing into existing tools, personnel, and processes. This saves management, software, and training costs.
 
 
 Does this sample repeat the phrase "tools, personnel, and processes"? Yes, it does. Does that repetition kind of dry things up a bit? You could certainly see it that way. But it also reduces the workload on the reader! Consider this alternative, with emphasis added to show how I chose a different phrase the second time instead of repeating "tools, personnel, and processes":
 
 
-These three scenarios examine software licensing costs only. Organizations that already have an investment in _tools, personnel, and processes_ that are based on Widgetco's products can save even more by using Widgetmaster and Widgetizer. The Widgetco solution enables organizations to integrate widgetizing into existing _toolsets, staffing, and workflows_. This saves management, software, and training costs.
+> These three scenarios examine software licensing costs only. Organizations that already have an investment in _tools, personnel, and processes_ that are based on Widgetco's products can save even more by using Widgetmaster and Widgetizer. The Widgetco solution enables organizations to integrate widgetizing into existing _toolsets, staffing, and workflows_. This saves management, software, and training costs.
 
 
 I believe that the second variation of this writing sample is the weaker one because it makes more work for the reader than necessary. If they're sharp, they won't really notice it, but their mind will have to go through the motions of determining whether _toolsets_ is the same thing as _tools_, whether _staffing_ is the same thing as _personnel_, and whether _workflows_ are the same thing as _processes_. That makes extra work for the reader.

@@ -11,19 +11,10 @@ categories:
 ---
 
 As a concept, the electronic book is a grand idea. In execution, it has been a slow starter.  For over a decade now, people have been creating Portable Document Format (PDF) documents and sharing them digitally. Digital books can have a ton of advantages:
-
-
-
 	
 * They are easy to transport.  A 1,000 page document doesn't make your laptop any heavier.
-
-	
 * They are "green," not requiring paper.
-
-	
 * The reader can use the "find" button to browse for particular information.
-
-	
 * They are easy to publish.
 
 
@@ -40,13 +31,9 @@ We came up with some principles to guide the format of our ebooks:
 
 
 	
-  1. **Don't mess with a good thing**. The PDF format is ubiquitous and easy to use.  Authors like PDF because it preserves formatting such as fonts and layout no matter where the document is opened.  Readers appreciate that there is  a reader for every operating system and, well, it works.  Although there are a lot of interesting format options out there, PDF is going to be the easiest for your audience.
-
-	
-  2. **Use the medium for the message**. PDF allows for both internal links to bookmarks within the document and external links to websites.  You can also create forms that the user can fill out.
-
-	
-  3. **Some like paper, some like screen**.  I am a great lover of paper and do often commit to the print button.  We could create a document that looks great on the screen but prints out as an unholy mess.  You can see this if you try to print out an informative web page.  They often break oddly across pages and columns. If the user needs to print the document, in whole or part, give them something they can use.
+1. **Don't mess with a good thing**. The PDF format is ubiquitous and easy to use.  Authors like PDF because it preserves formatting such as fonts and layout no matter where the document is opened.  Readers appreciate that there is  a reader for every operating system and, well, it works.  Although there are a lot of interesting format options out there, PDF is going to be the easiest for your audience.
+2. **Use the medium for the message**. PDF allows for both internal links to bookmarks within the document and external links to websites.  You can also create forms that the user can fill out.
+3. **Some like paper, some like screen**.  I am a great lover of paper and do often commit to the print button.  We could create a document that looks great on the screen but prints out as an unholy mess.  You can see this if you try to print out an informative web page.  They often break oddly across pages and columns. If the user needs to print the document, in whole or part, give them something they can use.
 
 
 The first two are pretty easy.  We adopted the PDF format and decided to not place digital controls on the files so that they are easy to use and move around.  Since we know we are writing for an electronic format, we can include links and utilize forms.  The bigger challenge was the third:  Making a document that would bridge the digital divide, be both paper and screen friendly.  Not just an eBook, but a uBook:  **The ÜberBook format.**
@@ -66,14 +53,14 @@ In the old days (5 years ago) computer screens were basically square, in the sam
 
 
 
-!["Portrait" formatting of a PDF on a screen.](http://wordlions.com/wp-content/uploads/2009/11/oldpdfformat-300x187.jpg)
+!["Portrait" formatting of a PDF on a screen.](/img/oldpdfformat-300x187.jpg)
 
 
 Nowadays, modern computers have a screen that is wider than it is tall... just about the dimensions of an 8 1/2 x 11 page.  We created a 2 column format that is highly readable on the screen but can also be printed and read in landscape (standard paper turned sideways) format.
 
 
 
-![The Word Lions uBook format. Click for full size image.](http://wordlions.com/wp-content/uploads/2009/11/Wordlionsformat-300x187.jpg)
+![The Word Lions uBook format. Click for full size image.](/img/Wordlionsformat-300x187.jpg)
 
 
 

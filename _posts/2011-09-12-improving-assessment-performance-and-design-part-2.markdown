@@ -40,11 +40,11 @@ It's very difficult to write good Distractors. And sometimes, as a test-taker, y
 
 Look closely for references to non-existent interface components or wrong procedures. The ability to spot Distractors based on factual clues is dependent on your level of domain knowledge, but remember that Distractors often use the following format:
 
-Answer = _correct procedure_ + _fictitious software interface name_
+Answer = correct procedure + fictitious software interface name
 
 OR
 
-Answer = _incorrect procedure_ + _correct software interface name_
+Answer = incorrect procedure + correct software interface name
 
 Distractors that follow either of the above two formats fall into the "close but no cigar" category and can be ruled out immediately.
 

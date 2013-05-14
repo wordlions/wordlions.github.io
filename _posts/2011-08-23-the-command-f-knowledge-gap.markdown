@@ -53,16 +53,9 @@ Yeah, but writing manuals or online help–even very thorough help content–is 
 
 We’d like to present three ideas for helping average users obtain skills that would dramatically improve their ability to use common software. These ideas are not exotic, difficult to implement, or even ground-breaking. But I think they could help a lot of hungry software companies sell more product and cultivate a more delighted user base:
 
-
-
-	
-  1. Ensure potential customer leads and existing customers have easy access to usage-focused software walkthroughs, Hands-on Labs, and other bite-sized instruction that matches common problems they face with step-by-step instructions on using the software. For existing customers, this might be a mailing list auto responder that periodically sends them an installment of a multi-part training program that focuses on “quick wins” and common usage scenarios. For potential customers, this might be video or software demo content that has a prominent placement on your web site and focuses on “quality of life” or effort reduction improvements your software can bring to them.
-
-	
-  2. Ask your support people what questions they would like to never hear again. Instead of designing documentation built around the software, build instruction around the problems your users face. You can reduce repetitive support headaches by providing a How-To video or step-by-step when the customer needs it.
-
-	
-  3. Incorporate game design into your efforts to educate your customers. Increasing user knowledge and skill using game semantics can help provide the motivation some users need to get across the knowledge gap. For an example of this, see Google’s [A Google A Day](http://agoogleaday.com) campaign.
+1. Ensure potential customer leads and existing customers have easy access to usage-focused software walkthroughs, Hands-on Labs, and other bite-sized instruction that matches common problems they face with step-by-step instructions on using the software. For existing customers, this might be a mailing list auto responder that periodically sends them an installment of a multi-part training program that focuses on “quick wins” and common usage scenarios. For potential customers, this might be video or software demo content that has a prominent placement on your web site and focuses on “quality of life” or effort reduction improvements your software can bring to them.
+2. Ask your support people what questions they would like to never hear again. Instead of designing documentation built around the software, build instruction around the problems your users face. You can reduce repetitive support headaches by providing a How-To video or step-by-step when the customer needs it.
+3. Incorporate game design into your efforts to educate your customers. Increasing user knowledge and skill using game semantics can help provide the motivation some users need to get across the knowledge gap. For an example of this, see Google’s [A Google A Day](http://agoogleaday.com) campaign.
 
 
 

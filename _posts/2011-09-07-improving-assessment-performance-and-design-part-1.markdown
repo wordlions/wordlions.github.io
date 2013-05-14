@@ -58,29 +58,17 @@ By the way, make sure you know the difference between a correct and a best answe
 
 Many certification exam questions are lengthy, and provide multiple supporting details or a scenario that is related to the question. The typical question structure looks like this:
 
-
-
-	
-  1. Scenario
-
-	
-  2. Description of the Problem you have to solve
-
-	
-  3. List of Answers, each of which is one potential way to solve the problem
+1. Scenario
+2. Description of the Problem you have to solve
+3. List of Answers, each of which is one potential way to solve the problem
 
 
 Because the Scenario section can often be lengthy, by the time you reach the second section that describes the Problem you must solve, you may have lost track of important details in the scenario. This forces you to go back and read the scenario a second time, costing you time on that question. Why not read the question in the following order:
 
 	
-  1. Description of the Problem you have to solve (often the last sentence or paragraph in the question)
-
-	
-  2. List of Answers, one of which may “jump out” at you as the correct answer.
-
-	
-  3. Lastly, read the Scenario to make sure you haven’t missed anything.
-
+ 1. Description of the Problem you have to solve (often the last sentence or paragraph in the question)
+ 2. List of Answers, one of which may “jump out” at you as the correct answer.
+ 3. Lastly, read the Scenario to make sure you haven’t missed anything.
 
 By approaching the question in this order, you might save a minute or two on some questions, and on timed exams this can be crucial. If your domain knowledge is particularly good, you can scan or entirely skip reading the Scenario section if one of the answers is obviously correct, further saving time and reducing fatigue.
 

@@ -14,8 +14,6 @@ author: 'Joel'
 # The Benefits of White Papers
 
 
-<a href="http://wordlions.com/wp-content/uploads/2010/03/The-Benefits-of-White-Papers.pdf">![](http://wordlions.com/wp-content/uploads/2010/03/WPBenefitsP1Snap.jpg)</a>
-
 Let's start with a definition. Skip to the next section if you already get what a white paper is.
 
 White papers are formal documents that describe the features and benefits of a product or technology. White papers were originally used in the British parliamentary system to describe some aspect of government policy, or a potential law that is under debate. Businesses have realized they can use the white paper format to create highly effective marketing and sales tools. Nowadays, you see them everywhere, but how would it benefit you to commission a white paper?

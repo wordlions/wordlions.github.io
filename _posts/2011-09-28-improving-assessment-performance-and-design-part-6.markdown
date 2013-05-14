@@ -43,7 +43,6 @@ When writing questions, structure the questions as consistently as possible. By 
 
 Question 1: You are in a dark alley. You hear footsteps behind you. What should you do?
 
-
 Question 2: You are in a foreign country. A stranger asks you to deliver an unmarked package for them. What should you do?
 
 Question 3: What should you do if you get lost in a strange city and someone asks you for money?
@@ -57,13 +56,10 @@ In some contexts, patently wrong or silly answers can help identify random guess
 **Best Practice: Avoid silliness when writing wrong answers. A wrong answer that is purposefully silly is insulting to your audience and reduces the quality of your assessment.**
 
 
-
-
-
 ## Design and Implement an Appropriate Mix of Conceptual Knowledge
 
 
-[![](http://wordlions.com/wp-content/uploads/2011/09/8d16221u-300x231.jpg)](http://wordlions.com/wp-content/uploads/2011/09/8d16221u.jpg)
+[![](/img/8d16221u-300x231.jpg)](/img/8d16221u.jpg)
 
 It's easy to create an assessment that targets knowledge of trivia. If it's software knowledge you're assessing, it's very easy to determine whether the learner knows where to click to accomplish a desired outcome. If it's customer service telephone skills you're assessing, it's very easy to determine whether the learner understands that it's better to refer to a caller as Sir/Madam, their first name, or Dude.
 
@@ -72,53 +68,24 @@ What's more difficult is to assess conceptual knowledge. But before you attempt 
 
 **Best Practice: Map assessment design to training objectives. **
 
-
-
-
-
 ## Avoid the Other Common Assessment Flaws: Excessive Trivia and Edge Case Interest
 
 
 Again, assessing conceptual knowledge is more difficult than assessing understanding of trivia. This can result in assessments that have an excessive percentage of questions that are designed to test:
-
-
-
 	
 * **Trivia**: obscure details of the subject you are assessing that have little or no relevance to your training objectives.
 
 	
 * **Excessive interest in edge cases**: Unusual situations that pertain to the subject you are assessing. Example: You are an astronaut. How long can you survive the vacuum of space without a space suit?
 
-
-
-
 **Best Practice: Read through the finished assessment. Classify each question based on whether it is a skill, knowledge, detail, trivia, or edge case question. Obviously, this is a subjective call. Determine whether the breakdown of question type is appropriate to training objectives and audience. Redesign or rewrite questions as necessary.**
-
-
-
-
-
-
 
 ## Finally, Assess Your Assessment
 
-
 Despite your best efforts to write a good assessment, you may end up with some questions that are clunkers, poorly written, or are otherwise invalid tests of knowledge or skill. The best way to deal with this is to beta test your assessment. Administer your assessment to a relatively small but representative group of people; perhaps 5% or so of the expected audience. Look for patterns in the results:
 
-
-
-
-
-
-
-	
 * Outliers: questions that almost _everybody_ or _nobody_ gets correct. These are probably flawed in some way and need to be redesigned or rewritten.
-
-	
 * Result distribution: What is the distribution of assessment outcomes? Are you trying to fit the outcome to a predetermined distribution, or meet some other criteria?
-
-
-
 
 ## Conclusion
 

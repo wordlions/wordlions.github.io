@@ -12,7 +12,7 @@ author: 'Joel'
 
 Across the river, windmills spun at the tempo of a Hitchcock film. Philip and I were awash in the white noise of the river pushing its way through the turbines of the John Day dam. Above us, the high voltage wires translated that rush into electricity. It was _audible._ They crackled like overheated oil in a pan.
 
-[![](http://wordlions.com/wp-content/uploads/2011/04/PowerLinesatJohnDay-300x225.jpg)](http://wordlions.com/wp-content/uploads/2011/04/PowerLinesatJohnDay.jpg)
+[![](/img/PowerLinesatJohnDay-300x225.jpg)](/img/PowerLinesatJohnDay.jpg)
 
 Philip snapped another picture and turned to me. "We have the coolest company meetings ever," he said flatly.
 
@@ -26,11 +26,10 @@ The main ingredients to a good Word Lions meeting seems to be coffee ("panther j
 2. Talk about the present
 3. Talk about the future.
 
-[See some pictures from our first meeting.](http://wordlions.com/965/photos-from-word-lions-2011-q1-vision-meeting/)
 
 In 8 rambling hours through a gray January day, 2 cups of coffee each, and one delicious Indian lunch, we recalled the original day that we hatched the original idea during an instant message session (Word Lions, brought to you by  Google Chat), through our first design charette which gave birth to wordlions.com. While walking up NW 21st that afternoon we sketched out what kinds of clients we wanted to work with and what we wanted to make.
 
-![](http://wordlions.com/wp-content/uploads/2011/04/IMG_1368-2.jpg)
+![](/img/IMG_1368-2.jpg)
 
 Three months later, Word Lions are waking each morning with full calendars and crowded to-do lists. The clients we were looking for? I would be happy to introduce you to them because we are now on a first name basis. Word Lions are making training materials, marketing collateral, white papers, and thought leadership content for a variety of great people.
 
@@ -55,7 +54,7 @@ I told Philip that I thought that I would not like these parts of running Word L
 
 Philip, sitting in the passenger seat, sipping coffee as we tooled down Interstate 84, expressed equal surprise at how much he embraced the idea of running a company..
 
-[![](http://wordlions.com/wp-content/uploads/2011/04/IMG_1912-300x225.jpg)](http://wordlions.com/wp-content/uploads/2011/04/IMG_1912.jpg)
+[![](/img/IMG_1912-300x225.jpg)](/img/IMG_1912.jpg)
 
 We took to calling this "Word Lions 3.0." It is about presenting our expertise not just as content creators but also as consultants and advisors on how to deliver a message. We have become a great resource for what works and what doesn't in content. We also know the process to efficiently create documents, training, and mulitmedia deliverables
 

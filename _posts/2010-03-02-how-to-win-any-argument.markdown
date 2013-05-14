@@ -56,27 +56,17 @@ Assume that you are dealing with a strong competitor whose product outsells your
 
 If you argue that your product is better than your competitors without also changing the frame, you will remind people of someone's younger sibling--trying to excel in all the same activities that the older sibling excelled in, listening to the same music, etc, but coming up a bit sad because you're an imitation. It is my belief that unless your product is completely, obviously, and amazingly better than your competitor's, you need to try to change the frame.
 
-Changing the frame is a strong move because it taps into the worldview-creating power wielded by parents and other authority figures, but it's worth doing because it says your product is both_ _better _and_ different. It's different, because it addresses different needs than your competitor's products. A well-crafted frame tells your audience that your products addresses their _real_ _needs_, while the competitor's product fails to address some of these needs. And it's better, because although it may not have the same features as the competitor's product, it has the features they _really need_.
+Changing the frame is a strong move because it taps into the worldview-creating power wielded by parents and other authority figures, but it's worth doing because it says your product is both better *and* different. It's different, because it addresses different needs than your competitor's products. A well-crafted frame tells your audience that your products addresses their *real needs*, while the competitor's product fails to address some of these needs. And it's better, because although it may not have the same features as the competitor's product, it has the features they *really need*.
 
-Another great example of changing the frame is Apple's iPhone. It still boggles my mind to remember that people lined up on the sidewalk outside AT&T retail locations to purchase _**a five hundred dollar phone**. _I believe we will all look back on that moment in time as a significant frame change because Apple convinced a large enough number of people that they didn't need a mobile phone with ancillary computing capabilities. Instead, they needed a mobile computer with phone capabilities. This was not a small frame change, but Apple was successful in presenting their case, and in creating a device that backed up their claims pretty well.
+Another great example of changing the frame is Apple's iPhone. It still boggles my mind to remember that people lined up on the sidewalk outside AT&T retail locations to purchase **a five hundred dollar phone**. I believe we will all look back on that moment in time as a significant frame change because Apple convinced a large enough number of people that they didn't need a mobile phone with ancillary computing capabilities. Instead, they needed a pocketable mobile computer with phone capabilities. This was not a small frame change, but Apple was successful in presenting their case, and in creating a device that backed up their claims pretty well.
 
 It's interesting to look back Steve Ballmer's reaction to Apple's frame change:
 
+<iframe width="420" height="315" src="http://www.youtube.com/embed/eywi0h_Y5_U" frameborder="0"> </iframe>
 
-
-Although we don't know whether Ballmer's reaction was genuine or not, he does refuse to engage the core question: Apple was introducing a mobile computer that could make phone calls while the competition was focused on making phones that have some computing capabilities. Ballmer's refusal to engage the frame is a marketing mistake. His response would have been much more effective if he had focused on how Microsoft's frame differs from Apple's frame. Something like this:
-
+Although we don't know whether Ballmer's reaction was genuine or not, he does refuse to engage the core question: Apple was introducing a mobile computer that could make phone calls while the competition was focused on making phones that have some ancilliary computing capabilities that were focused on email. Ballmer's refusal to engage the frame is a marketing mistake. His response would have been much more effective if he had focused on how Microsoft's frame differs from Apple's frame. Something like this:
 
 > Apple has just introduced a mobile computer that can make phone calls. While there may be a market for this, we know that what business customers really want is an email-focused phone with a hardware keyboard. Apple's product is not focused on this market, and it's too expensive, so I think it will have only moderate success in the market.
-
-
-
-
-## The Frame Has Limits
-
-
-Your ability to control the frame is a very powerful tool, but it has limits. A great example is found in the world of politics. Pick any politician who has been exposed for having sex with someone whose age starts with the number one. No matter how much they would like to re-frame the discussion, they will be unable to do so because the frame they would _like_ to use--that their partner wasn't a minor at the time, that sex is irrelevant to public office, that _that _wasn't sex--is overruled by a more powerful frame within the culture. The more powerful, culturally-enforced frame says that any politician is at least morally suspect and probably a criminal if they have sex with someone whose age starts with the number one. Culturally-enforced frames like this change slowly, and a single publication or event is not enough to change them. So be aware of the limits of controlling the frame! If a typical member of your audience is likely to say," That's just wrong!" then you probably have found something that no amount of re-framing can address.
-
 
 ## Why Care?
 
