@@ -16,7 +16,7 @@ Now that we've provided some pretty detailed guidance on how to exploit flawed a
 ## Avoid Obvious Structural Flaws
 
 
-[![](http://wordlions.com/wp-content/uploads/2011/09/8b30447u-300x281.jpg)](http://wordlions.com/wp-content/uploads/2011/09/8b30447u.jpg)
+[![](/img/8b30447u-300x281.jpg)](/img/8b30447u.jpg)
 
 If your assessment includes multiple-choice questions, you'll want to avoid grammatical inconsistencies in how the choices are written. As you've seen from earlier installments of this series, savvy test takers can exploit patterns in the grammar of your questions to help identify wrong answers.
 

@@ -12,7 +12,7 @@ author: 'Joel'
 
 It has been a busy couple of months at Word Lions, but we thought that we would take a moment to post an update on some of our current projects.  After we put the list together, we were impressed by how much we got done in the last few months.  We must be good.
 
-But hey, we still would love to talk to you about your technical communication projects.  Putting together white papers, online training, online communications, or documentation?  [Look up the Word Lions](http://wordlions.com/contact.html).
+But hey, we still would love to talk to you about your technical communication projects.  Putting together white papers, online training, online communications, or documentation?  [Look up the Word Lions](/contact).
 
 **Philip** has been busy the past few months. When he's not making photographs with his antique view camera or spending quality time with his girlfriend, dog, and four cats, he's writing, improving his writing chops, or [helping explain the value of white papers](http://wordlions.com/why-white-papers/).
 
@@ -82,4 +82,4 @@ Apparently Joel has become something of a specialist in all things electrical, w
 
 For our good friends at [BlueVolt](http://bluevolt.com), Joel scripted a[ video that explains the value ](http://vimeo.com/moogaloop.swf?clip_id=10881112)of their awesome but difficult to explain platform.  We managed to get it done in record time.  Great job to [Arturo Cornejo](http://www.elarturex.com/) and [Caitlin Wilbur](http://caitlinwilbert.com/) for making the pretty pictures Joel had in his head.
 
-Whatever the scale of your project, whatever the complexity, Word Lions can help you to explain it to your audience.  Get a hold of us and let us know how we can help.
+Whatever the scale of your project, whatever the complexity, Word Lions can help you to explain it to your audience.  [Get a hold of us](/contact) and let us know how we can help.

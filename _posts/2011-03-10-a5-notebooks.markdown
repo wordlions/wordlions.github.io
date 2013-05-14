@@ -16,7 +16,7 @@ We love A5 notebooks. Or at least Philip does. Here's why.
 ### They're Baggable
 
 
-![](http://wordlions.com/wp-content/uploads/2011/02/IMG_1630.jpg)
+![](/img/IMG_1630.jpg)
 
 The [A5 paper size](http://www.papersizes.org/a-paper-sizes.htm) is a nice middle ground between the more conventional letter and legal sizes (A4 is the nearest ISO standard) and those tiny black Moleskine notebooks that you see beret-wearing wanna-be authors using in cafes.
 
@@ -25,7 +25,7 @@ One of the nice advantages of A5 notebooks is that they slip right into a laptop
 ### They're Just Big Enough
 
 
-![](http://wordlions.com/wp-content/uploads/2011/02/IMG_1633.jpg)
+![](/img/IMG_1633.jpg)
 
 The A5 paper size is large enough to get a real _idea_ onto a single page of the notebook; the _whole_ idea. Notes from an hour long meeting, a new product idea, whatever. It's just enough tabula rosa. Goldilocks would love it.
 

@@ -10,7 +10,7 @@ categories:
 author: 'Joel'
 ---
 
-<img src="http://wordlions.com/wp-content/uploads/2010/09/AlvesReisBankNotes.jpg" />
+<img src="/img/AlvesReisBankNotes.jpg" />
 
 Moving a bunch of books and the like around the other day, I came across an old copy of [Cabinet Magazine](http://www.cabinetmagazine.org) dated Spring 2006. Cabinet is a delightfully eclectic quarterly I pick up from time to time.  I had not read this issue all the way through and fell upon an article by Sam Burton that opens with the tale of [Alves Reis](http://en.wikipedia.org/wiki/Alves_dos_Reis), a fascinating, bold Portugese counterfeiter of the early 20th century. It was a great read and I felt somewhat sad for Sam that the effort went into an article that is now so far out of circulation.
 

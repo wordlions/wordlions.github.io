@@ -18,7 +18,7 @@ author: 'Joel'
 
 We know from experience that creating a good white paper is a real investment. The company very naturally wants to get a return on that investment, usually in the form of sales leads.  In an effort to create leads, many companies distribute white papers off their websites through a registration process. All over the web, on subjects ranging from email marketing to laser printer performance, I come across intriguing white papers that I want to read. I click on the link and what do I get?  A request for my personal information.
 
-![Typical white paper registration form](http://wordlions.com/wp-content/uploads/2010/02/WhitePaperRegister.png)
+![Typical white paper registration form](/img/WhitePaperRegister.png)
 
 At this point, I have three options:
 

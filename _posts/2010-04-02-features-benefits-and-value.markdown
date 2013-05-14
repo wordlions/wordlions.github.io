@@ -30,5 +30,5 @@ I really like this.  It introduces an end goal of features and benefits:  **V
 
 We developed this snazzy graphic (OK, I used a boilerplate from PowerPoint 2007 to create it) to visualize the relationship:
 
-<img src="http://wordlions.com/wp-content/uploads/2010/04/featurebenefitvalue-300x180.jpg" />
+<img src="/img/featurebenefitvalue-300x180.jpg" />
  

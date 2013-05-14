@@ -10,7 +10,7 @@ categories:
 author: 'Joel'
 ---
 
-[![](http://wordlions.com/wp-content/uploads/2010/06/Midstream-Training-for-Agile-Software-boaters-300x226.jpg)
+[![](/img/Midstream-Training-for-Agile-Software-boaters-300x226.jpg)
 
 The Word Lions were recently called up to Seattle to introduce ourselves to our client's customers.  The customers are from a consortium of electric utilities in the midst of a year-long software project. Originally, Word Lions came on board to provide user training for the final project.  Our customers asked us to show the users that training is a priority for this project.  We came to evangelize on a subject we hold near and dear: how training can ease the adoption of new software.  However, we came away with a surprising lesson of our own – and a new role in the project.
 
@@ -34,7 +34,7 @@ Every quarter, a select group of users from the customer fly to a meeting and sp
 
 During the Seattle meeting, one user spoke up and asked if we could create courses for the early releases that would give them a way to experience the software in realistic scenarios.
 
-[![](http://wordlions.com/wp-content/uploads/2010/06/Midstream-Training-for-Agile-Software-teacher-300x222.jpg)
+[![](/img/Midstream-Training-for-Agile-Software-teacher-300x222.jpg)
 
 Now, I am a huge proponent of e-learning and computer based training to solve a lot of problems, but I had never thought of this.  What a great idea: **create scenarios that use live software or simulations to get better input from the customers - and get it earlier in the development cycle.**
 
@@ -98,4 +98,4 @@ By offering beta labs and simulations, we can:
 **Michael Sulis of [Sulis Consulting](http://sulix.com)**
 
 
-We love to talk about this stuff.  [Get a hold of us](http://wordlions.com/contact.html/) if you want to exchange ideas about training for your software or IT initiatives.
+We love to talk about this stuff.  [Get a hold of us](/contact) if you want to exchange ideas about training for your software or IT initiatives.

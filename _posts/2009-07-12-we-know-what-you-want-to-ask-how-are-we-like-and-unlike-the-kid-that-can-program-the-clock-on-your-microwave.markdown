@@ -19,7 +19,7 @@ Philip and I are both technical pros.  We have been asked to perform technical w
 ### Ways that we are like the kid who programs the clock on your microwave:
 
 
-![Science Kid-sm](http://wordlions.com/wp-content/uploads/2009/07/Science-Kid-sm.png)`  
+![Science Kid-sm](/img/Science-Kid-sm.png)`  
 `
 
 
@@ -44,4 +44,4 @@ Philip and I are both technical pros.  We have been asked to perform technical w
 * Well, **you can't pay us with pudding cups and 7-up.** Although, as a small and targeted team, we are not too hard on your budget.
 
 
-[Get a hold of us](http://wordlions.com/contact.html) to find out how we can get a grip on your communication challenges.
+[Get a hold of us](/contact) to find out how we can get a grip on your communication challenges.

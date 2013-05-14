@@ -22,7 +22,7 @@ I really believe that you should **not hold back** when you are talking about wh
 So with a steely glint in my eyes, I set a timer for 45 minutes and gave myself the challenge of improving the copy on Datango's product page.
 
 First, here's the original copy (be sure to click the image to see a full-resolution version):
-<img src="http://wordlions.com/wp-content/uploads/2011/08/datango_before.png" />
+<img src="/img/datango_before.png" />
 
 ## Some Ideas For Betterment
 
@@ -67,7 +67,7 @@ Here's what I came up with, in two versions. First, one with key points bolded 
 
 
 
-<img src="http://wordlions.com/wp-content/uploads/2011/08/datango_after.png" />
+<img src="/img/datango_after.png" />
 
 
 
@@ -81,7 +81,7 @@ Here's what I came up with, in two versions. First, one with key points bolded 
 
 And one without the bolding, for a more subtle tone (be sure to click the image to see a full-resolution version):
 
-<img src="http://wordlions.com/wp-content/uploads/2011/08/datango_after_nobold.png" />
+<img src="/img/datango_after_nobold.png" />
 
 (By the way, my 45 minute timer just went off as I was typing this part of the blog post!)
 

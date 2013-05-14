@@ -19,7 +19,7 @@ Here is a riddle for you:
 
 Essentially, in the IT world you know them when you see them. They are in every meeting. They know every corner of a company’s technology investment and all the initiatives that are floating around. They stitch all the bits and silicon together to make the business sleek and stylish.
 
-![](http://wordlions.com/wp-content/uploads/2011/02/LibyanTailor-220x300.jpg)
+![](/img/LibyanTailor-220x300.jpg)
 
 Working in IT, I have seen a good architects who work like that Italian tailor from your favorite gangster film.  They take raw cloth and resources and assemble classy and comfortable fashions that make the company operations look super snazzy.
 
@@ -27,7 +27,7 @@ So maybe a system architect is a tailor, but more. I do know that it is sometime
 
 Andy Ruth, VP of Training at the [International Association of Software  Architects (IASA)](http://www.iasaglobal.org/), is fervent about helping his fellow architects. He has a strategy to create valuable, meaningful training for them and enable them to share their knowledge with others in the field. Good stuff, all about making the work easier and the product better.
 
-![](http://wordlions.com/wp-content/uploads/2011/02/iasa.png)
+![](/img/iasa.png)
 
 
 To get their curriculum kicked off, IASA needed to build foundational elearning courses that introduce the important concepts for architects. Andy and the IASA experts knew their content.  They needed some technical and instructional design chops to get the courses into the world.

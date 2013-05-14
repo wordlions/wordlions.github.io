@@ -44,7 +44,7 @@ The main point that Kantor makes about today's typical white paper reader is tha
 ### You Have to Create Visual Focus Zones
 
 
-![](http://wordlions.com/wp-content/uploads/2010/12/bullseye.jpeg)
+![](/img/bullseye.jpeg)
 
 
 All writers know that overly big blocks of uninterrupted text are a big turnoff to most readers. And we also know that "overly big" has been getting smaller and smaller.

@@ -13,14 +13,14 @@ author: 'Joel'
 
 And you want to hire the biggest snowball.
 
-![](http://wordlions.com/wp-content/uploads/2010/03/men-in-snow-300x184.jpg)
+![](/img/men-in-snow-300x184.jpg)
 
 
 
 
 The other day I got a new netbook computer, an [Asus Eeepc](http://en.wikipedia.org/wiki/Asus_eeepc).  Philip, my fellow Word Lion, saw the picture I snapped and posted to Facebook.  We then had a gleeful exchange as we both ranged around the Internet looking for new applications and operating systems for this new toy, er I mean tool.  With Philip's help I landed on a great OS, upgraded the hardware, and installed some groovy applications -- some of which we needed to tweak a bit to run on the platform.
 
-![](http://wordlions.com/wp-content/uploads/2010/03/contraption-300x238.jpg)
+![](/img/contraption-300x238.jpg)
 
 
 
@@ -37,4 +37,4 @@ Curiosity is at the core of the Word Lions value.  When a we face a new project
 
 you need more than just someone who can conjugate. You need someone who gets your product and can explain it to your customers. We don't shy away from your technical information.  Based on your project needs, we will help you to draw out the significant message that your customers are looking for.
 
-[Give us a call](http://wordlions.com/contact-us/). We would love to talk about how cool your technology is and how we can bring that message to your customers.
+[Give us a call](/contact). We would love to talk about how cool your technology is and how we can bring that message to your customers.
