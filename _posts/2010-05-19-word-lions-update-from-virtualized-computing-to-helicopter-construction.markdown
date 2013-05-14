@@ -23,11 +23,6 @@ But hey, we still would love to talk to you about your technical communication p
  Whatever the scale of your project, whatever the complexity, Word Lions can help you to explain it to your audience.  Get a hold of us and let us know how we can help. Philip's sort of a jack of all trades, but lately he's been writing a lot of fiercely competitive documents for Microsoft. Microsoft, as always, is working towards dominating every market they're in, and they're giving VMware a run for their money in the virtualization space. In writing compete-focused technical content, Philip has discovered that it's all about how you [frame your argument](http://wordlions.com/how-to-win-any-argument/).  If you let your competitor frame the arguement for you, you've already lost because they're going to frame things in terms of their product's strengths. Philip has worked closely with several parts of Microsoft's virtualization product and marketing teams to tease out the right framing and nuance for persuading readers that Microsoft's products are better.
 
 
-### 
-
-
-
-
 ### White Papers And Then Some
 
 
@@ -66,7 +61,7 @@ Philip's not just a one-client guy. He's been collaborating with Joel on helping
 ## Online Training and Videos
 
 
-For Tyco Electronic's [Circuit Protection University](circuitprotection.com"), he scripted a video and a course to help sales people and technical specifiers to choose the correct circuit protection product for their application.  It was interesting to learn about all those tiny doohickeys that protect our gadgets from harm.
+For Tyco Electronic's [Circuit Protection University](http://circuitprotection.com), he scripted a video and a course to help sales people and technical specifiers to choose the correct circuit protection product for their application.  It was interesting to learn about all those tiny doohickeys that protect our gadgets from harm.
 
 For Eaton Electrical, Joel created training to help electricians better understand how to be good salespeople.  The courses show the features of certain products and explain the best way to communicate the benefit to the customer.  In the process of making these courses, Joel learned about some cool circuit protection products that would be a nice fit in his 100 year old house.
 
