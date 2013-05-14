@@ -115,3 +115,18 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
   
+  prose:
+    siteurl: "wordlions.com"
+    metadata:
+      _posts:
+        - name: "layout"
+          field:
+            element: "text"
+            label: "Layout"
+            value: "post"
+        - name: "author"
+          field:
+            element: "text"
+            label: "Author"
+            value: "authorname here"
+  
