@@ -1,19 +1,19 @@
 ---
-date: '2012/10/04 08:00:00'
+published: true
+date: "2012/10/04 08:00:00"
 layout: post
-slug: so-you-want-to-write-a-white-paper
-status: published
-title: 'So, You Want to Write a White Paper'
-categories:
-- What Word Lions Do
-author: 'Philip'
+title: "So, You Want to Write a White Paper"
+categories: 
+  - What Word Lions Do
+author: Philip
+
 ---
 
 So, you're thinking about writing a white paper? After all, Fall and Winter are the best time of year to write white papers! (Actually, there's no white paper season. Their production tends to be driven by marketing budgets and product release schedules more than anything else.)
 
 
 ## To Write In House or Not?
-While it's not the point of this article, you of course will want to think about whether you want to write your white paper in-house or not. While almost no one will know more about the subject than your staff, the chances are high that charging a full time staff person with writing a white paper will land it in the [unfinished valley](http://www.wordlions.com/finishing-it).
+While it's not the point of this article, you of course will want to think about whether you want to write your white paper in-house or not. While almost no one will know more about the subject than your staff, the chances are high that charging a full time staff person with writing a white paper will land it in the [unfinished valley](/finishing-it).
 
 ## The Prep Is Almost The Same Either Way
 Whether you do the writing in house or not, you will want your subject matter experts (SMEs) to prep for writing process in basically the same way.
@@ -32,7 +32,7 @@ The following are some critical points that your SME(s) should be prepared to ta
 
 * **Think about how you sell the product or service that is the subject of your white paper**. How do you pitch it to people when time is short (the so-called elevator pitch), how do you counter their objections to the price or other common objections, etc?
 * **Think about the competition**. What does your product or service offer that they do not? These are your product's differentiators, and they can be very overt, like yours having features or benefits or a price advantage that the competition does not, or they can be subtle, like yours being easier to use or better-designed or the like.
-* **Think about benefits vs. features**. A feature is something like "modular design with 1-on-1 followup sessions." A benefit is "learn 20% more in 30% less time, with proven information retention and 20% better on-the-job performance," for example. Features matter, but (substantiated) benefits ultimately sell. Benefits have a clear relationship to value, performance, and results. Read more about [features and benefits here](http://www.wordlions.com/features-benefits-and-value/). So do spend some time thinking about the headline features of your product or service and especially about the product or service's benefits.
+* **Think about benefits vs. features**. A feature is something like "modular design with 1-on-1 followup sessions." A benefit is "learn 20% more in 30% less time, with proven information retention and 20% better on-the-job performance," for example. Features matter, but (substantiated) benefits ultimately sell. Benefits have a clear relationship to value, performance, and results. Read more about [features and benefits here](/features-benefits-and-value/). So do spend some time thinking about the headline features of your product or service and especially about the product or service's benefits.
 * **Think about real-world product performance**. What do your customers tell you their needs are, how does the product actually satisfy those needs, and so forth.
 
 ## We're White Paper Geeks
