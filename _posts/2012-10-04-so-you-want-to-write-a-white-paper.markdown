@@ -13,7 +13,7 @@ So, you're thinking about writing a white paper? After all, Fall and Winter are 
 
 
 ## To Write In House or Not?
-While it's not the point of this article, you of course will want to think about whether you want to write your white paper in-house or not. While almost no one will know more about the subject than your staff, the chances are high that charging a full time staff person with writing a white paper will land it in the [unfinished valley](/finishing-it).
+While it's not the point of this article, you of course will want to think about whether you want to write your white paper in-house or not. While almost no one will know more about the subject than your staff, the chances are high that charging a full time staff person with writing a white paper will land it in the [unfinished valley](/the-finisher).
 
 ## The Prep Is Almost The Same Either Way
 Whether you do the writing in house or not, you will want your subject matter experts (SMEs) to prep for writing process in basically the same way.
