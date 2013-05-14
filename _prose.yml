@@ -1,0 +1,14 @@
+  prose:
+    siteurl: "http://wordlions.com"
+    metadata:
+      _posts:
+        - name: "layout"
+          field:
+            element: "text"
+            label: "Layout"
+            value: "post"
+        - name: "author"
+          field:
+            element: "text"
+            label: "Author"
+            value: "authorname here"
