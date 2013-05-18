@@ -10,12 +10,12 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Word Lions LLC - Test Site
+title : Word Lions LLC
 tagline: Fierce Content
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
+  name : Word Lions LLC
+  email : TheLions@wordlions.com
+  github : wordlions
   twitter : username
   feedburner : feedname
 
@@ -27,7 +27,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://wordlions.github.io
+production_url : http://wordlions.com
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -115,18 +115,17 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
   
-  prose:
-    siteurl: "http://wordlions.com"
-    metadata:
-      _posts:
-        - name: "layout"
-          field:
-            element: "text"
-            label: "Layout"
-            value: "post"
-        - name: "author"
-          field:
-            element: "text"
-            label: "Author"
-            value: "authorname here"
-  
+prose:
+  siteurl: "http://wordlions.com"
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "text"
+          label: "Layout"
+          value: "post"
+      - name: "author"
+        field:
+          element: "text"
+          label: "Author"
+          value: "authorname here"
