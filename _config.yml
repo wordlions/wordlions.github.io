@@ -130,4 +130,8 @@ JB :
             element: "text"
             label: "Author"
             value: "authorname here"
-  
+        - name: "excerpt"
+          field:
+            element: "text"
+            label: "Excerpt"
+            value: "post excerpt here"    
