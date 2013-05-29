@@ -27,51 +27,27 @@ title: Word Lions LLC
  
 	<div class="row">
 		<div class="large-4 columns">
-      <img src="http://placehold.it/400x300&text=[Inviting graphic]" />
-      <h4>Teaser Item #1</h4>
-        <p>Maybe this is a case study for marketing work?</p>
+      <a href="/what/" alt="Content creation services"><img src="http://placehold.it/400x300&text=[Inviting graphic]" /></a>
+      <h4>High Quality Marketing Content</h4>
       <p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
     </div>
     
     <div class="large-4 columns">
-      <img src="http://placehold.it/400x300&text=[Inviting graphic]" />
-      <h4>Teaser Item #2</h4>
-        <p>Maybe this is a case study for training work?</p>
+      <a href="/what/" alt="Content creation services"><img src="http://placehold.it/400x300&text=[Inviting graphic]" /></a>
+      <h4>Rapid Development Training Content</h4>
       <p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
     </div>
     
     <div class="large-4 columns">
-      <img src="http://placehold.it/400x300&text=[Inviting graphic, clicking it takes you to /articles]" />
+      <a href="/articles/" alt="Fascinating articles"><img src="http://placehold.it/400x300&text=[Inviting graphic, clicking it takes you to /articles]" /></a>
       <h4>Recent articles</h4>
-        {% assign count = '0' %}
-        {% for post in site.posts %}
-            {% if count <= '6' %}
-                <h5><a href="{{ BASE_PATH }}{{ post.url }}/">{{ post.title }}</a></h5>
-                {% capture count %}{{ count | plus: '1' }}{% endcapture %}
-            {% endif %}
+        {% for post in site.posts limit:6 %}
+            <h5><a href="{{ BASE_PATH }}{{ post.url }}/">{{ post.title }}</a></h5>
         {% endfor %}
         <p><a href="/articles/">More articles...</a></p>
     </div>
 	
     </div>
     
-<!-- Call to Action Panel -->
-<div class="row">
-    <div class="large-12 columns">
-    
-      <div class="panel">
-        <h4>Get in touch!</h4>
-            
-        <div class="row">
-          <div class="large-9 columns">
-            <p>We'd love to start a discussion about how we can help with your content marketing or training needs.</p>
-          </div>
-          <div class="large-3 columns">
-            <a href="/contact" class="radius button right">Contact Us</a>
-          </div>
-        </div>
-      </div>
-      
-    </div>
-  </div>
+
 
