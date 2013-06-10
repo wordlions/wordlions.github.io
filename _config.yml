@@ -2,6 +2,7 @@
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:title 
 paginate: 5
+paginate_path: /articles/page:num
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
@@ -115,17 +116,22 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
   
-prose:
-  siteurl: "http://wordlions.com"
-  metadata:
-    _posts:
-      - name: "layout"
-        field:
-          element: "text"
-          label: "Layout"
-          value: "post"
-      - name: "author"
-        field:
-          element: "text"
-          label: "Author"
-          value: "authorname here"
+  prose:
+    siteurl: "http://wordlions.com"
+    metadata:
+      _posts:
+        - name: "layout"
+          field:
+            element: "text"
+            label: "Layout"
+            value: "post"
+        - name: "author"
+          field:
+            element: "text"
+            label: "Author"
+            value: "authorname here"
+        - name: "excerpt"
+          field:
+            element: "text"
+            label: "Excerpt"
+            value: "post excerpt here"    
