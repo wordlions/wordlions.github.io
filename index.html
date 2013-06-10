@@ -5,88 +5,70 @@ title: Word Lions LLC
 
 {% include JB/setup %}
 
- <!-- Main Page Content and Sidebar -->
-
+<!-- First Band (Hero Unit) -->
+ 
   <div class="row">
-
-    <!-- Main Blog Content -->
-    <div class="large-8 columns" role="content">
-
-
-    {% for post in paginator.posts %}
-
-      <article style="">
-
-        <h1><a href="{{ BASE_PATH }}{{ post.url }}/">{{ post.title }}</a></h1>
-
-        {{ post.content }}
-
-        <span><h6>Written by {{ post.author }}</h6>&nbsp;&nbsp;&nbsp;<h6><a href="{{ BASE_PATH }}{{ post.url }}#disqus_thread">Comment</a></h6></span>
-
-      </article>
-
-      <hr style="margin-bottom:8em;" />
-        
-    
-    {% endfor %}
-<span class="radius secondary label">
-    <h4>More articles</h4>
-<ul class="inline-list clearindents">
-        
-{% if paginator.previous_page %}
-    <li>
-      {% if paginator.previous_page == 1 %}
-        <a href="/"><i class="foundicon-left-arrow"></i></a>
-      {% else %}
-        <a href="/page{{ paginator.previous_page }}/"><i class="foundicon-left-arrow"></i></a>
-      {% endif %}
-    </li>
-  {% else %}
-    <li>
-      <span><i class="foundicon-left-arrow"></i></span>
-    </li>
-  {% endif %}
-
-    <li>
-      {% if paginator.page == 1 %}
-        <span class="current-page">1</span>
-      {% else %}
-        <a href="/">1</a>
-      {% endif %}
-    </li>
-
-    {% for count in (2..paginator.total_pages) %}
-      <li>
-        {% if count == paginator.page %}
-          <span class="current-page">{{ count }}</span>
-        {% else %}
-          <a href="/page{{ count }}/">{{ count }}</a>
-        {% endif %}
-      </li>
-    {% endfor %}
-  
-<li style="margin-right: 1.375em;">
-  {% if paginator.next_page %}
-
-      <a href="/page{{ paginator.next_page }}/"><i class="foundicon-right-arrow"></i></a>
-  {% else %}
-      <span><i class="foundicon-right-arrow"></i></span>
-  {% endif %}
-    </li>
-</ul>
-</span>
-        
-    
+    <div class="large-12 columns">
+	<div class="row">
+		<div class="large-3 columns">
+            <img src="/img/WL-logo-hero.png" />
+        </div>
+        <div class="large-8 large-offset-1 columns">
+            <h2>Word Lions creates persuasive and educational content for small and medium businesses.</h2>
+            <p><a href="mailto:TheLions@wordlions.com">Contact us</a> to start a discussion about how we can help with your content marketing or training needs.</p>
+        </div>
     </div>
-
-    <!-- End Main Content -->
-
-
-    <!-- Sidebar -->
-
-    {% include aside.html %}
-
-    <!-- End Sidebar -->
+    
+    <hr />
+    </div>
   </div>
+  
+<!-- Three-up Content Blocks -->
+ 
+	<div class="row">
+		<div class="large-4 columns">
+      <a href="/what/" alt="Content creation services"><img src="/img/marketing.jpg" /></a>
+      <h2 style="font-size: 1.4375em;">High Quality Marketing Content</h2>
+      <p>Whether you need long form content like white papers, or short form content like case studies and web copy, Word Lions can help you create compelling content to support your marketing campaign.</p>
+        <p>We have a proven process for painlessly producing even complex content.</p>
+    </div>
+    
+    <div class="large-4 columns">
+      <a href="/what/" alt="Content creation services"><img src="/img/training.jpg" /></a>
+      <h2 style="font-size: 1.4375em;">Rapid Development Training Content</h2>
+      <p>With over ten years experience developing and delivering technical training, Word Lions is an ideal partner for rapid development training projects.</p>
+        <p>With tools like Articulate Storyline and in-house graphics and voice talent, we can produce cost-effective training for any need.</p>
+    </div>
+    
+    <div class="large-4 columns">
+      <a href="/articles/" alt="Fascinating articles"><img src="/img/articles.jpg" /></a>
+      <h2 style="font-size: 1.4375em;">Recent Articles on Content</h2>
+        {% for post in site.posts limit:6 %}
+            <h5><a href="{{ BASE_PATH }}{{ post.url }}/">{{ post.title }}</a></h5>
+        {% endfor %}
+        <p><a href="/articles/">More articles...</a></p>
+    </div>
+	
+    </div>
+    
 
-  <!-- End Main Content and Sidebar -->
+
+<!-- Call to Action Panel -->
+<div class="row">
+    <div class="large-12 columns">
+    
+      <div class="panel">
+        <h4>Get in touch!</h4>
+            
+        <div class="row">
+          <div class="large-9 columns">
+            <p>We'd love to start a discussion about how we can help with your content marketing or training needs.</p>
+          </div>
+          <div class="large-3 columns">
+            <a href="/contact" class="radius button right">Contact Us</a>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+  </div>
