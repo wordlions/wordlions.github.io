@@ -118,6 +118,7 @@ JB :
   
   prose:
     siteurl: "http://wordlions.com"
+    media: "img"
     metadata:
       _posts:
         - name: "layout"
