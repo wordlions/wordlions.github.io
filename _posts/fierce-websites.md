@@ -1,5 +1,4 @@
 ---
-published: true
 layout: post
 author: Joel Barker
 status: published
