@@ -1,7 +1,8 @@
 ---
+published: true
 layout: post
 author: Joel Barker
-status: published
+title: "Fierce Websites"
 ---
 
 Word Lions have strong feelings about websites. We think that effective websites–**an Internet presence that moves a company forward**–need to have a structure as well as content that supports the company's story.
