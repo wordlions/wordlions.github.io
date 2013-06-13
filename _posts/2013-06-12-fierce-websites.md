@@ -11,8 +11,8 @@ Word Lions have strong feelings about websites. We think that effective website
 When it comes to a company's web presence,
 ## Word Lions Believe
 - **It's worth it** to make engaging, interesting websites. Linking content and structure is the key.
-- Authenticity wins the day. We have designed a process that helps us write authentic content for you. We begin by learning about * you and your company, and from there we build messaging that tells your unique story.
-- Your website visitors' attention is a precious, non-renewable resource. We design content that is perfect for busy people in search of real value.
+- **Authenticity wins the day**. We have designed a process that helps us write authentic content for you. We begin by learning about * you and your company, and from there we build messaging that tells your unique story.
+- **Your website visitors' attention is a precious, non-renewable resource**. We design content that is perfect for busy people in search of real value.
 
 ## We make these websites, and it goes really smoothly
 Because Word Lions love process, we approach the challenge of making great websites as a **process challenge**. Answering this need for our clients forged our content driven design: We call it **Fierce Websites**
