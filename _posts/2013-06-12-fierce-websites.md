@@ -2,7 +2,7 @@
 published: true
 layout: post
 author: Joel Barker
-title: "Fierce Websites"
+title: "How do you make a website Fierce?"
 ---
 
 Word Lions have strong feelings about websites. We think that effective websites–**an Internet presence that moves a company forward**–need to have a structure as well as content that supports the company's story.
