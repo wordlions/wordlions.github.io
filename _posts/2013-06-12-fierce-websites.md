@@ -6,7 +6,7 @@ title: "Fierce Websites"
 ---
 
 Word Lions have strong feelings about websites. We think that effective websites–**an Internet presence that moves a company forward**–need to have a structure as well as content that supports the company's story.
-![We make websites that are fierce but well groomed.](/_posts/Fierce-but-well-groomed.jpg)
+![We make websites that are fierce but well groomed.](http://dl.dropboxusercontent.com/u/2044421/Fierce-but-well-groomed.jpg)
  
 When it comes to a company's web presence,
 ## Word Lions Believe
