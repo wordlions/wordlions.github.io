@@ -2,12 +2,12 @@
 published: true
 layout: post
 author: Joel Barker
-title: "How do you make a website Fierce?"
+title: "How Do You Make a Website Fierce?"
 ---
 
 Word Lions have strong feelings about websites. We think that effective websites–**an Internet presence that moves a company forward**–need to have a structure as well as content that supports the company's story.
 
-![We make websites that are fierce but well groomed.](http://dl.dropboxusercontent.com/u/2044421/Fierce-but-well-groomed.jpg)
+![We make websites that are fierce but well groomed.](/img/Fierce-but-well-groomed.jpg)
 
 <br /> 
 When it comes to a company's web presence,
@@ -20,8 +20,9 @@ When it comes to a company's web presence,
 Because Word Lions love process, we approach the challenge of making great websites as a **process challenge**. Answering this need for our clients forged our content driven design: We call it **Fierce Websites**
 
 Our process builds a website in this order:
+![Fierce Websites start with agreeing on the message.](/img/FierceWebsiteProcessSketch-v2.png)
 
-Message ---> Content and Structure ---> Visual Design
+<br /> 
  
 
 Our Fierce approach makes great sites and makes the process sensible:
