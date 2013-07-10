@@ -12,7 +12,7 @@ categories:
 author: 'Joel'
 ---
 
-[![](/img/cloudcover.png)](http://www.readwriteweb.com/archives/download_our_latest_free_report_the_influences_dri.php)
+![](/img/cloudcover.png)](http://www.readwriteweb.com/archives/download_our_latest_free_report_the_influences_dri.php)
 
 Philip has spent a lot of time with his hands on virtualization. He knows the ins and outs of virtually everything about virtualization. Recently, Read Write Web called upon him to write a white paper on what is driving virtualization in the present wave of adopters. 
 

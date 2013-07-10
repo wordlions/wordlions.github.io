@@ -12,7 +12,7 @@ author: 'Joel'
 
 Have you ever been at a social engagement and found yourself chatting with a new parent? It seems that no matter the topic, all that they can manage to talk about is their child:
 
-[![](/img/IMAG0363-BW-169x300.jpg)](/img/IMAG0363-BW.jpg)
+![](/img/IMAG0363-BW-169x300.jpg)](/img/IMAG0363-BW.jpg)
 
 "So they changed our garbage service"
 

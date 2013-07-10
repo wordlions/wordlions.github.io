@@ -16,7 +16,7 @@ Now that we've provided some pretty detailed guidance on how to exploit flawed a
 ## Avoid Obvious Structural Flaws
 
 
-[![](/img/8b30447u-300x281.jpg)](/img/8b30447u.jpg)
+![](/img/8b30447u-300x281.jpg)](/img/8b30447u.jpg)
 
 If your assessment includes multiple-choice questions, you'll want to avoid grammatical inconsistencies in how the choices are written. As you've seen from earlier installments of this series, savvy test takers can exploit patterns in the grammar of your questions to help identify wrong answers.
 
@@ -59,7 +59,7 @@ In some contexts, patently wrong or silly answers can help identify random guess
 ## Design and Implement an Appropriate Mix of Conceptual Knowledge
 
 
-[![](/img/8d16221u-300x231.jpg)](/img/8d16221u.jpg)
+![](/img/8d16221u-300x231.jpg)](/img/8d16221u.jpg)
 
 It's easy to create an assessment that targets knowledge of trivia. If it's software knowledge you're assessing, it's very easy to determine whether the learner knows where to click to accomplish a desired outcome. If it's customer service telephone skills you're assessing, it's very easy to determine whether the learner understands that it's better to refer to a caller as Sir/Madam, their first name, or Dude.
 

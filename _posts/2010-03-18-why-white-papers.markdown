@@ -30,7 +30,7 @@ My personal theory about this involves the fact that most white papers, even if 
 
 This credibility-by-association is a subtle framing move that makes white papers into powerful marketing tools.
 
-The credibility building work of white papers has two components. First, a company that lets you download white papers describing its products looks more credible simply because those white papers exist. Modern folks largely view the world through a scientific materialist lens, which means that the things that are measurable through scientific means are what is real. So when comparing two products, the one that has white papers written about it is viewed as the more credible product because it has been _studied__** **__by experts_.
+The credibility building work of white papers has two components. First, a company that lets you download white papers describing its products looks more credible simply because those white papers exist. Modern folks largely view the world through a scientific materialist lens, which means that the things that are measurable through scientific means are what is real. So when comparing two products, the one that has white papers written about it is viewed as the more credible product because it has been studied by experts_.
 
 Second, if Widgetco commissions a white paper on their Widgetizer product, you can bet that white paper will paint the Widgetizer in a positive light. Very likely, the white paper will tone down the marketing-speak by using formal language and quotes from experts, but in the end, the white paper will show that Widgetco's Widgetizer is the best product for a particular scenario. Because the white paper format has the credibility-by-association effect described in the previous paragraph, it can be _more convincing_ than Widgetco's web site, brochures, or other marketing tools. So Widgetco's credibility gets a boost not only because someone thought their products were important enough to write white papers about, but also because those white papers say the Widgetizer is the best product in its category.
 
@@ -40,7 +40,7 @@ Of course, if Widgetco has a savvy marketing team, they know they can't just say
 ## Control The Frame, Own The Market
 
 
-The Word Lions are very skilled at helping our clients [frame their message](http://wordlions.com/587/how-to-win-any-argument/) to their best advantage. One of the most powerful tools for framing the discussion is a great white paper.
+The Word Lions are very skilled at helping our clients frame their message to their best advantage. One of the most powerful tools for framing the discussion is a great white paper.
 
 The general expectation for white papers is that they will be longer than the typical datasheet, and they will include relevant background information. This means that white papers have greater latitude to work on framing the discussion around the product in question. Web copy, brochures, and email marketing campaigns need to be relatively concise to effectively engage readers. White papers should be fluff-free, but they do provide more room to develop a nuanced argument. They can also include background information like quotes from experts, charts, and information about the challenges that the product in question solves. Taken together, these white paper characteristics give you more room to influence your readers with your preferred framing.
 
@@ -80,7 +80,7 @@ White papers can be re-purposed. This means that after you have invested in a se
 
 White papers are most frequently made available as PDF or Microsoft Word files. Most major search engines, including Google, have no problem indexing these files. This means that white papers can help your web site's search engine rank by contributing relevant, keyword-rich content to your site.
 
-Think about the times you've done a Google search for information on a product. Don't you happily click through to a search result labeled [PDF], knowing that it will be more than SEO-optimized marketing-speak? Using PDFs and Word Documents actually gives you a fair amount of control over how your white paper appears in search results. All of this adds up to a search optimization benefit for the organization that uses white papers as a marketing tactic. Check this document for more tips on optimizing your PDFs for searchability: [http://www.evisionsem.com/documents/optimizing_PDFs-2008.pdf](http://www.evisionsem.com/documents/optimizing_PDFs-2008.pdf)
+Think about the times you've done a Google search for information on a product. Don't you happily click through to a search result labeled PDF, knowing that it will be more than SEO-optimized marketing-speak? Using PDFs and Word Documents actually gives you a fair amount of control over how your white paper appears in search results. All of this adds up to a search optimization benefit for the organization that uses white papers as a marketing tactic. Check this document for more tips on optimizing your PDFs for searchability: [http://www.evisionsem.com/documents/optimizing_PDFs-2008.pdf](http://www.evisionsem.com/documents/optimizing_PDFs-2008.pdf)
 
 
 ## Portability

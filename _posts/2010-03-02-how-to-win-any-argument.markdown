@@ -76,6 +76,3 @@ Controlling the frame is vital. Unless your product is a niche of one, you will 
 Competition is tough enough without limiting yourself this way. You should at least get to create the scorecard your product is judged with. You do that by making sure you correctly frame your argument. If you choose a good frame, one that resonates with your customers, you will be more successful at winning the most crucial argument: you should buy this product because _____________ !
 
 The Word Lions create well-framed, persuasive technical content. [Let us know](mailto:info@wordlions.com) if we can create training or white papers that help you frame things to your advantage.
-
-_**References**__**
-**_[http://www.truthout.org/obama-tea-parties-and-battle-our-brains57089](http://www.truthout.org/obama-tea-parties-and-battle-our-brains57089)

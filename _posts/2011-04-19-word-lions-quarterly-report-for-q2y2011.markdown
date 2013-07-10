@@ -12,7 +12,7 @@ author: 'Joel'
 
 Across the river, windmills spun at the tempo of a Hitchcock film. Philip and I were awash in the white noise of the river pushing its way through the turbines of the John Day dam. Above us, the high voltage wires translated that rush into electricity. It was _audible._ They crackled like overheated oil in a pan.
 
-[![](/img/PowerLinesatJohnDay-300x225.jpg)](/img/PowerLinesatJohnDay.jpg)
+![](/img/PowerLinesatJohnDay-300x225.jpg)](/img/PowerLinesatJohnDay.jpg)
 
 Philip snapped another picture and turned to me. "We have the coolest company meetings ever," he said flatly.
 
@@ -48,13 +48,13 @@ That would seem like a pretty random goal except for two things:
 
 This meeting we had one agenda item: **How do we deal with growth?**
 
-** **Our message is taking off with the marketplace and we are taking on a number of exciting projects. Philip and I formed Word Lions because we love making content. And create content we do. However, now we have to wear other hats: We are sales, we are management, we are infrastructure and overhead.
+Our message is taking off with the marketplace and we are taking on a number of exciting projects. Philip and I formed Word Lions because we love making content. And create content we do. However, now we have to wear other hats: We are sales, we are management, we are infrastructure and overhead.
 
 I told Philip that I thought that I would not like these parts of running Word Lions. However, I look at my days and am quite gleeful. I certainly do less writing than I thought I would be doing. Instead I am meeting with clients and planning projects. I find myself using those board-room phrases like "moving the ball forward" with a curious amount of sincerity.
 
 Philip, sitting in the passenger seat, sipping coffee as we tooled down Interstate 84, expressed equal surprise at how much he embraced the idea of running a company..
 
-[![](/img/IMG_1912-300x225.jpg)](/img/IMG_1912.jpg)
+![](/img/IMG_1912-300x225.jpg)](/img/IMG_1912.jpg)
 
 We took to calling this "Word Lions 3.0." It is about presenting our expertise not just as content creators but also as consultants and advisors on how to deliver a message. We have become a great resource for what works and what doesn't in content. We also know the process to efficiently create documents, training, and mulitmedia deliverables
 

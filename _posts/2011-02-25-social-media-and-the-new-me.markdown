@@ -44,7 +44,7 @@ My skepticism on one of these was entirely unfounded.  I also bring back a new 
 ## Amtrak Coast Starlight: My New Favorite Thought Incubator
 
 
-[![](/img/DSCN2805-Sepia-300x224.jpg)
+![](/img/DSCN2805-Sepia-300x224.jpg)
 
 Yesterday on this train I spoke to a woman who is fascinated by timelines. Tanya pointed out that we are, with our Facebook and Twitter feeds, creating and self-curating a timeline of our existence.
 

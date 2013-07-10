@@ -9,7 +9,7 @@ categories:
 - What Word Lions Do
 ---
 
-Today while stretching -- a routine made more interesting by two small dogs who see stretching as an acrobatic social occasion -- I heard this great article on NPR about the [40th anniversary of Sesame Street](http://wordlions.com/s/43838/).  The reporter had some fun with the subject.  How could he resist?  By creating a list of lessons that The Street has learned over the years, he got my attention and created a really enjoyable listening experience.
+Today while stretching -- a routine made more interesting by two small dogs who see stretching as an acrobatic social occasion -- I heard this great article on NPR about the 40th anniversary of Sesame Street.  The reporter had some fun with the subject.  How could he resist?  By creating a list of lessons that The Street has learned over the years, he got my attention and created a really enjoyable listening experience.
 
 Of course, I am deeply influenced by Sesame Street.  Most of my generation can still sing the first few bars of a hundred Sesame Street jingles. What follows is my
 
@@ -17,7 +17,7 @@ Of course, I am deeply influenced by Sesame Street.  Most of my generation can 
 ## Writer's Lessons From 40 years of Sesame Street
 
 
-[![Sesame Street](/img/Sesametitle.jpg)
+![Sesame Street](/img/Sesametitle.jpg)
 
 
 
@@ -29,5 +29,5 @@ Of course, I am deeply influenced by Sesame Street.  Most of my generation can 
 
 It is easy to forget these lessons, thinking that the rules we learned as children were the "basic" rules and as adults we had moved on to more "advanced" writing.  I have come to understand that all communications should be edited while sitting on the stoop on Sesame Street with Grover looking over your shoulder.
 
-[![Snuffy31](/img/Snuffy31.jpg)
+![Snuffy31](/img/Snuffy31.jpg)
 

@@ -83,7 +83,7 @@ I could find a few things to criticize, but in light of the value this book offe
 
 
 
-[![](http://static.lulu.com/product/paperback/crafting-white-paper-20-designing-information-for-todays-time-and-attention-challenged-business-reader/5983721/thumbnail/320)](http://www.lulu.com/product/paperback/crafting-white-paper-20-designing-information-for-todays-time-and-attention-challenged-business-reader/5983721)
+![](http://static.lulu.com/product/paperback/crafting-white-paper-20-designing-information-for-todays-time-and-attention-challenged-business-reader/5983721/thumbnail/320)](http://www.lulu.com/product/paperback/crafting-white-paper-20-designing-information-for-todays-time-and-attention-challenged-business-reader/5983721)
 
 
 

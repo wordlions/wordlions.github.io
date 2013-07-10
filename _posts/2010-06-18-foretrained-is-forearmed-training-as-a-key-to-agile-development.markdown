@@ -10,7 +10,7 @@ categories:
 author: 'Joel'
 ---
 
-[![](/img/Midstream-Training-for-Agile-Software-boaters-300x226.jpg)
+![](/img/Midstream-Training-for-Agile-Software-boaters-300x226.jpg)
 
 The Word Lions were recently called up to Seattle to introduce ourselves to our client's customers.  The customers are from a consortium of electric utilities in the midst of a year-long software project. Originally, Word Lions came on board to provide user training for the final project.  Our customers asked us to show the users that training is a priority for this project.  We came to evangelize on a subject we hold near and dear: how training can ease the adoption of new software.  However, we came away with a surprising lesson of our own – and a new role in the project.
 
@@ -34,7 +34,7 @@ Every quarter, a select group of users from the customer fly to a meeting and sp
 
 During the Seattle meeting, one user spoke up and asked if we could create courses for the early releases that would give them a way to experience the software in realistic scenarios.
 
-[![](/img/Midstream-Training-for-Agile-Software-teacher-300x222.jpg)
+![](/img/Midstream-Training-for-Agile-Software-teacher-300x222.jpg)
 
 Now, I am a huge proponent of e-learning and computer based training to solve a lot of problems, but I had never thought of this.  What a great idea: **create scenarios that use live software or simulations to get better input from the customers - and get it earlier in the development cycle.**
 
@@ -44,9 +44,6 @@ Now, I am a huge proponent of e-learning and computer based training to solve a 
 
 Now Philip and I are ramping up on this project even earlier than we had planned.  For their next quarterly meeting, we will be presenting
 
-
-
-	
 * An in-person demonstration of the beta software.
 
 	
@@ -56,19 +53,13 @@ Now Philip and I are ramping up on this project even earlier than we had planned
 * Labs, delivered as PDF documents, that guide users through scenarios on the development site.
 
 
-
-
 ### The Benefits of Mid-Stream Training for Agile Products
-
 
 After the meeting I sat down and wrote out a short list of the features of this mid-stream training.  We can make a pretty good argument for the cost-effectiveness of this -- particularly if people like Word Lions put it together and you don't have to take your dev team away from coding.
 
  **If your software project or IT initiative is looking for creative training and documentation solutions, **get in touch with us.  We can help you find creative ways to get your users on board with your project. 
 
 By offering beta labs and simulations, we can:
-
-
-
 	
 * Increase involvement by the user base, expanding to people who can not make the conference calls and meetings.
 
@@ -87,12 +78,7 @@ By offering beta labs and simulations, we can:
 	
 * Just make better software.
 
-
-
-
 > _I'm really excited about these simulations and labs - they're really going to give our users the involvement and reassurance they're looking for. We'll get more meaningful feedback earlier, and the users are now really excited about the process, which is going to make a better product in the end. Plus, it takes the burden off of the developers, which gives me some breathing room._
-
-
 
 
 **Michael Sulis of [Sulis Consulting](http://sulix.com)**
