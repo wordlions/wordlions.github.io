@@ -9,11 +9,13 @@ Word Lions have strong feelings about websites. We think that effective websites
 
 ![We make websites that are fierce but well groomed.](/img/Fierce-but-well-groomed.jpg)
 
-<div id="pullquote-full-width">Word Lions helps companies of various sizes develop websites that support their messaging. Read these case studies to learn about
+<div id="pullquote-full-width">
+<p>Word Lions helps companies of various sizes develop websites that support their messaging. Read these case studies to learn about</p>
 
-<p><img src="/img/Entryless-logo.png) /> a href="/downloads/EntrylessCaseStudy.pdf" alt="New business website design case study">A new web-based company<a/> launching their first web presence.</p>
+<p><img src="/img/Entryless-logo.png" /> <a href="/downloads/EntrylessCaseStudy.pdf" alt="New business website design case study">A new web-based company</a> launching their first web presence.</p>
 
-<p><img src="/img/ControlTek-logo.png" /> <a href="/downloads/ControlTekCaseStudy.pdf" alt="Business website redesign case study">A 40 year old company</a> refurbishing their company image.</p></div>
+<p><img src="/img/ControlTek-logo.png" /> <a href="/downloads/ControlTekCaseStudy.pdf" alt="Business website redesign case study">A 40 year old company</a> refurbishing their company image.</p>
+</div>
 
 When it comes to a company's web presence,
 ## Word Lions Believe
