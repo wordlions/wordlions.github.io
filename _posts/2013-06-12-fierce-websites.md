@@ -9,7 +9,6 @@ Word Lions have strong feelings about websites. We think that effective websites
 
 ![We make websites that are fierce but well groomed.](/img/Fierce-but-well-groomed.jpg)
 
-<br />
 When it comes to a company's web presence,
 ## Word Lions Believe
 * **It's worth it** to make engaging, interesting websites. Linking content and structure is the key.
@@ -21,9 +20,6 @@ Because Word Lions love process, we approach the challenge of making great websi
 
 Our process builds a website in this order:
 ![Fierce Websites start with agreeing on the message.](/img/FierceWebsiteProcessSketch-v2.png)
-
-<br />
-
 
 Our Fierce approach makes great sites and makes the process sensible:
 
