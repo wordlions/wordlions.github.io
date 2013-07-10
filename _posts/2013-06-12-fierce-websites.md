@@ -11,9 +11,9 @@ Word Lions have strong feelings about websites. We think that effective websites
 
 <div id="pullquote-full-width">Word Lions helps companies of various sizes develop websites that support their messaging. Read these case studies to learn about
 
-* -- /img/Entryless-logo.png -- [A new web-based company](/downloads/EntrylessCaseStudy.pdf title="New business website design case study") launching their first web presence.
+* ![](/img/Entryless-logo.png) [A new web-based company](/downloads/EntrylessCaseStudy.pdf "New business website design case study) launching their first web presence.
 
-* -- /img/ControlTek-logo.png -- [A 40 year old company](/downloads/ControlTekCaseStudy.pdf title="Business website redesign case study") refurbishing their company image.</div>
+* <img src="/img/ControlTek-logo.png" /> <a href="/downloads/ControlTekCaseStudy.pdf alt="Business website redesign case study">A 40 year old company</a> refurbishing their company image.</div>
 
 When it comes to a company's web presence,
 ## Word Lions Believe
