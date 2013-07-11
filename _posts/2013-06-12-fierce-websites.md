@@ -12,11 +12,10 @@ Word Lions have strong feelings about websites. We think that effective websites
 <div id="pullquote-full-width">
 <p>Word Lions helps companies of various sizes develop websites that support their messaging. Read these case studies to learn about</p>
 
-<p><a href="/downloads/EntrylessCaseStudy.pdf" alt="New business website design case study"><img src="/img/Entryless-logo.png" /></a></p>
-<p style="padding-left:10px; margin-top:-10px;"><a href="/downloads/EntrylessCaseStudy.pdf" alt="New business website design case study">A new web-based company</a> launching their first web presence.</p>
-
-<p><a href="/downloads/ControlTekCaseStudy.pdf" alt="Business website redesign case study"><img src="/img/ControlTek-logo.png" /></a></p>
-<p style="padding-left:10px; margin-top:-10px;"><a href="/downloads/ControlTekCaseStudy.pdf" alt="Business website redesign case study">A 40 year old company</a> refurbishing their company image.</p>
+<p><span style="float:left;"><a href="/downloads/EntrylessCaseStudy.pdf" alt="New business website design case study"><img src="/img/Entryless-logo.png" /></a></span>
+<span style="padding-left:10px; margin-top:-10px; float:right; width:75%;"><a href="/downloads/EntrylessCaseStudy.pdf" alt="New business website design case study">A new web-based company</a> launching their first web presence.</span></p>
+<p><span style="float:left;"><a href="/downloads/ControlTekCaseStudy.pdf" alt="Business website redesign case study"><img src="/img/ControlTek-logo.png" /></a></span>
+<span style="padding-left:10px; margin-top:-10px; float:right; width:75%;"><a href="/downloads/ControlTekCaseStudy.pdf" alt="Business website redesign case study">A 40 year old company</a> refurbishing their company image.</span></p>
 </div>
 
 When it comes to a company's web presence,
