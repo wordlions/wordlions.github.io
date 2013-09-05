@@ -25,11 +25,9 @@ Because of the way we serve projects, we assure you that Word Lions will continu
 
 ## Questions? Call Us All
 In fact, feel free to call us now. Joel, Karl, and Philip are available to answer any questions during the transition.
-Joel
-503.301.2662
-Philip
-503.539.5509
-Karl
-503.334.7106
+
+* Joel 503.301.2662
+* Philip 503.539.5509
+* Karl 503.334.7106
 
 ![The Lion Stamp of Approval.](/img/pawprint.png)
