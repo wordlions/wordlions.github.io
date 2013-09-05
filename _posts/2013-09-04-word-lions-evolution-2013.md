@@ -2,9 +2,8 @@
 published: true
 layout: post
 author: Joel Barker
-title: "Word Lions Evolution 2013"
+title: "Our Continuing Evolution 2013 "
 ---
-# The Continuing Evolution of Word Lions
 Word Lions have always been more about people than words. (We are rarely actually about lions at all, except in metaphorical ways.) Be it clients, audience, or partners, we earnestly test our efforts to confirm that we are doing good for people.
 That includes ourselves.
 
