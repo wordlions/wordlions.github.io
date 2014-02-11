@@ -96,7 +96,9 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-9378344-1'
+      tracking_id : 'UA-47968809-1'
+      site_name : 'wordlions.com'
+      # tracking_id : 'UA-9378344-1'
 
   # Settings for sharing helper. 
   # Sharing is for things like tweet, plusone, like, reddit buttons etc.
