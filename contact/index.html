@@ -13,21 +13,20 @@ description: "Drop us a line any time TheLions@wordlions.com"
     <div class="large-8 columns" role="content">
  
       <h3>Get in Touch!</h3>
-      <p>We’d like to start a conversation with you about using content marketing to increase sales or competence. Please drop us a line at <a href="mailto:TheLions@wordlions.com">TheLions@wordlions.com</a>.</p>
+      <p>We’d like to start a conversation with you about using content marketing to increase sales or competence. Please contact us using the form in the sidebar.</p>
  
       <div class="section-container tabs" data-section>
         <section class="section">
           <h5 class="title"><a href="#panel1">Contact Word Lions</a></h5>
-          <div class="content" data-slug="panel1">
+          <div class="content" data-slug="panel1" itemscope itemtype="http://schema.org/LocalBusiness">
             <ul class="large-block-grid-2">
               <li>
                 <ul class="vcard clearindents" style="padding-left: 0.5em;">
-                  <li class="fn">Word Lions LLC</li>
-                  <li class="street-address">4225 SW Corbett</li>
-                  <li class="locality">Portland</li>
-                  <li><span class="state">Oregon</span>, <span class="zip">97239</span></li>
-                  <li class="email"><a href="mailto:TheLions@wordlions.com">TheLions@wordlions.com</a></li>
-                  <li class="telephone">503.310.2662</li>
+                  <li class="fn"><span itemprop="name">Word Lions LLC</span></li>
+                  <li class="street-address"><span itemprop="streetAddress">4225 SW Corbett</span></li>
+                  <li class="locality"><span itemprop="addressLocality">Portland</span></li>
+                  <li><span class="state" itemprop="addressRegion">Oregon</span>, <span class="zip" itemprop="postalCode">97239</span></li>
+                  <li class="telephone"><span itemprop="telephone">503.310.2662</span></li>
                 </ul>
               </li>
               <li>
@@ -39,14 +38,14 @@ description: "Drop us a line any time TheLions@wordlions.com"
         <section class="section">
           <h5 class="title"><a href="#panel2">Specific Person</a></h5>
           <div class="content" data-slug="panel2">
-            <ul class="large-block-grid-3 clearindents">
-              <li><a href="mailto:joel@wordlions.com"><img src="/img/joel.jpg">Joel Barker</a><br />
+            <ul class="large-block-grid-2 clearindents">
+              <li><img src="/img/joel.jpg"><h4>Joel Barker</h4><br />
                   503.310.2662<br />Twitter: <a href="http://twitter.com/joelbyronbarker">@joelbyronbarker</a><br />
                   LinkedIn: <a title="LinkedIn: joelbyronbarker" href="http://www.linkedin.com/in/joelbyronbarker" target="_blank">joelbyronbarker</a><br />
                   Facebook: <a title="facebook.com/joelbyronbarker" href="https://www.facebook.com/joelbyronbarker" target="_blank">facebook.com/joelbyronbarker</a><br />
                   Schedule: <a href="https://www.google.com/calendar/b/1/embed?src=joel@wordlions.com&ctz=America/Los_Angeles" target="_blank">Google Calendar</a>
               </li>
-              <li><a href="mailto:karl@wordlions.com"><img src="/img/karl_in_a_bar.jpg">Karl Steiner</a><br />
+              <li><img src="/img/karl_in_a_bar.jpg"><h4>Karl Steiner</h4><br />
                   503.334.7106
               </li>
               <li>
@@ -66,7 +65,7 @@ description: "Drop us a line any time TheLions@wordlions.com"
 
     <!-- Sidebar -->
 
-    {% include aside.html %}
+    {% include contact_form.html %}
 
     <!-- End Sidebar -->
 
