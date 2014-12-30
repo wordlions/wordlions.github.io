@@ -8,7 +8,7 @@ wordpress_id: '575'
 categories:
 - What Word Lions Do
 - White Papers
-author: 'Joel'
+author: "Joel Barker"
 ---
 
 ### _or To Register or Not to Register?_

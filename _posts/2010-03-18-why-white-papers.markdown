@@ -8,7 +8,7 @@ wordpress_id: '609'
 categories:
 - What Word Lions Do
 - White Papers
-author: 'Joel'
+author: "Joel Barker"
 ---
 
 # The Benefits of White Papers

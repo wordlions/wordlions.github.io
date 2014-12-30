@@ -7,7 +7,7 @@ title: Obsolescence and Endurance
 wordpress_id: '714'
 categories:
 - What Word Lions Do
-author: 'Joel'
+author: "Joel Barker"
 ---
 
 <img src="/img/AlvesReisBankNotes.jpg" />

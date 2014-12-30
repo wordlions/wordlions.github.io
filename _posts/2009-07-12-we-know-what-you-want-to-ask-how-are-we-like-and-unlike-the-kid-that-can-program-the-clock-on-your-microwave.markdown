@@ -8,7 +8,7 @@ title: 'We know what you want to ask:  how are we like and unlike the kid that c
 wordpress_id: '196'
 categories:
 - What Word Lions Do
-author: 'Joel'
+author: "Joel Barker"
 ---
 
 _From the desk of Joel Barker

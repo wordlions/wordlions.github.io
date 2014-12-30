@@ -13,7 +13,7 @@ tags:
 - Gravity Summit
 - SM
 - Social Media
-author: 'Joel'
+author: "Joel Barker"
 ---
 
 I am perched in the observation car of the Amtrak Coast Starlight, just passing Mount Shasta and climbing towards the Oregon border. The other occupants regularly jump up with their cameras at the ready when yet another incredible view rolls by.

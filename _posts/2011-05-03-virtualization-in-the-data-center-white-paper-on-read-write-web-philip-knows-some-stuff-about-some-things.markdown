@@ -9,7 +9,7 @@ wordpress_id: '1341'
 categories:
 - What Word Lions Do
 - White Papers
-author: 'Joel'
+author: "Joel Barker"
 ---
 
 ![](/img/cloudcover.png)](http://www.readwriteweb.com/archives/download_our_latest_free_report_the_influences_dri.php)

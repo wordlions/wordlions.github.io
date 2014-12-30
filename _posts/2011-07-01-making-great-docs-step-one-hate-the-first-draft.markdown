@@ -7,7 +7,7 @@ title: 'Making Great Docs, Step One: hate the first draft.'
 wordpress_id: '1351'
 categories:
 - What Word Lions Do
-author: 'Joel'
+author: "Joel Barker"
 ---
 
 _Update: Our client did like her second draft and immediately took it to meet with prospects. She tells us that it helped her close two deals immediately. We make content with an eye for value. It did not take long for that project to show value!_

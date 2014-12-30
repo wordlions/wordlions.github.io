@@ -8,7 +8,7 @@ title: Word Lions Build Elearning for International Association of Software Arch
 wordpress_id: '866'
 categories:
 - What Word Lions Do
-author: 'Joel'
+author: "Joel Barker"
 ---
 
 Here is a riddle for you:

@@ -7,7 +7,7 @@ title: Explaining Features, Benefits, and Value
 wordpress_id: '622'
 categories:
 - What Word Lions Do
-author: 'Joel'
+author: "Joel Barker"
 ---
 
 When creating marketing messages, particularly for technology and software, the industry standard has been to break down the conversation to **features and benefits**.  The argument is that we simply list the elements of the product and call them features.  Following that, we affix a significance to those features and call those benefits.

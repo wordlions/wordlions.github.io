@@ -7,7 +7,7 @@ title: Thankful
 wordpress_id: '1705'
 categories:
 - What Word Lions Do
-author: 'Joel'
+author: "Joel Barker"
 ---
 
 Have you ever been at a social engagement and found yourself chatting with a new parent? It seems that no matter the topic, all that they can manage to talk about is their child:

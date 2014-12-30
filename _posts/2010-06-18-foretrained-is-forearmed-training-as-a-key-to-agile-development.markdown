@@ -7,7 +7,7 @@ title: 'Foretrained is Forearmed: Training as a key to agile development '
 wordpress_id: '669'
 categories:
 - What Word Lions Do
-author: 'Joel'
+author: "Joel Barker"
 ---
 
 ![](/img/Midstream-Training-for-Agile-Software-boaters-300x226.jpg)

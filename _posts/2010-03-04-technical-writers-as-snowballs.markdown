@@ -8,7 +8,7 @@ wordpress_id: '601'
 categories:
 - What Word Lions Do
 - White Papers
-author: 'Joel'
+author: "Joel Barker"
 ---
 
 And you want to hire the biggest snowball.

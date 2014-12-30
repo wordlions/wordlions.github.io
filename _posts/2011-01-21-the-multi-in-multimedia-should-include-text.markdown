@@ -8,7 +8,7 @@ wordpress_id: '810'
 categories:
 - What Word Lions Do
 - White Papers
-author: 'Joel'
+author: "Joel Barker"
 ---
 
 I have been working all day on a project and needed to switch over to another issue late in the afternoon. I also needed some calories. These two problems are easily solved by riding down to the nearest Internet-enabled food source.  After a largely quiet and solitary day creating content, It was kind of nice to be around the babble of people.

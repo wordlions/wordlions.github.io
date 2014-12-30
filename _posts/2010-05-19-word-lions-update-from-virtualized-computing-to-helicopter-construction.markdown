@@ -7,7 +7,7 @@ title: 'Word Lions Update: From Virtualized Computing to Helicopter Construction
 wordpress_id: '636'
 categories:
 - What Word Lions Do
-author: 'Joel'
+author: "Joel Barker"
 ---
 
 It has been a busy couple of months at Word Lions, but we thought that we would take a moment to post an update on some of our current projects.  After we put the list together, we were impressed by how much we got done in the last few months.  We must be good.

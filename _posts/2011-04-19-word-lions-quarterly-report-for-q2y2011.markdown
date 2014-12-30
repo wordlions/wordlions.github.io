@@ -7,7 +7,7 @@ title: Word Lions Quarterly Report for Q2Y2011
 wordpress_id: '996'
 categories:
 - What Word Lions Do
-author: 'Joel'
+author: "Joel Barker"
 ---
 
 Across the river, windmills spun at the tempo of a Hitchcock film. Philip and I were awash in the white noise of the river pushing its way through the turbines of the John Day dam. Above us, the high voltage wires translated that rush into electricity. It was _audible._ They crackled like overheated oil in a pan.
