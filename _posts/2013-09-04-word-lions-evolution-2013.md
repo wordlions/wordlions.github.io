@@ -2,7 +2,7 @@
 published: true
 layout: post
 author: Joel Barker
-title: "Our Continuing Evolution 2013 "
+title: "Our Continuing Evolution 2013"
 ---
 Word Lions have always been more about people than words. (We are rarely actually about lions at all, except in metaphorical ways.) Be it clients, audience, or partners, we earnestly test our efforts to confirm that we are doing good for people.
 That includes ourselves.
@@ -24,10 +24,9 @@ Put plainly, Philip will not be replaced. There is no replacement for Philip Mor
 Because of the way we serve projects, we assure you that Word Lions will continue to make quality content and continue to be focused on being good to people we work with. Our focus on process and collaboration means that Philip will be able to transition cleanly out of his projects and Word Lions will continue to serve your needs. There will be a different voice, but the same culture on the phone when you call us. 
 
 ## Questions? Call Us All
-In fact, feel free to call us now. Joel, Karl, and Philip are available to answer any questions during the transition.
+In fact, feel free to call us now. Joel and Karl are available to answer any questions during the transition.
 
-* *Joel:* 503.301.2662
-* *Philip:* 503.539.5509
+* *Joel:* 503.310.2662
 * *Karl:* 503.334.7106
 
 ![The Lion Stamp of Approval.](/img/pawprint.png)
